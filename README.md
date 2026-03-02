@@ -23,6 +23,7 @@
 | [Résultats chiffrés](docs/RESULTATS_CHIFFRES.md) | Tableaux exhaustifs, p-values |
 | [Notebooks](notebooks/) | 9 notebooks d’analyse (engagement → BERT) |
 | [Note d'analyse](docs/note_analyse.md) | Synthèse narrative, findings |
+| [Références](docs/REFERENCES.md) | Bibliographie académique |
 
 ---
 

@@ -11,6 +11,52 @@ from pathlib import Path
 _ROOT = Path(__file__).resolve().parent.parent
 
 
+# ── Tests sans données (passent TOUJOURS) ────────────────────────────────
+
+def test_all_candidates_have_color():
+    """Chaque candidat a une couleur définie."""
+    from src.utils import COLORS, ID_TO_KEY
+    for cid, key in ID_TO_KEY.items():
+        assert key in COLORS, f"Candidat {key} sans couleur"
+        assert COLORS[key].startswith("#"), f"Couleur {key} invalide"
+
+
+def test_colors_hex_format():
+    """Toutes les couleurs sont en format hex #RRGGBB."""
+    from src.utils import COLORS
+    for name, color in COLORS.items():
+        assert len(color) == 7, f"{name}: couleur {color} invalide"
+        assert color[0] == "#", f"{name}: doit commencer par #"
+
+
+def test_positions_in_range():
+    """POSITIONS entre 1 et 8 pour chaque candidat."""
+    from src.utils import POSITIONS
+    for name, pos in POSITIONS.items():
+        assert 1 <= pos <= 8, f"{name}: position {pos} hors [1,8]"
+
+
+def test_get_color_returns_str():
+    """get_color retourne une chaîne (couleur ou default)."""
+    from src.utils import get_color
+    assert isinstance(get_color("Knafo"), str)
+    assert isinstance(get_color("Inconnu"), str)
+    assert get_color("Knafo").startswith("#")
+
+
+def test_camps_cover_all_candidates():
+    """CAMPS couvre les 8 candidats."""
+    from src.utils import CAMPS, ID_TO_KEY
+    all_in_camps = []
+    for camp, cands in CAMPS.items():
+        all_in_camps.extend(cands)
+    keys = set(ID_TO_KEY.values())
+    for k in keys:
+        assert k in all_in_camps or k.replace("Gregoire", "Grégoire") in all_in_camps, f"{k} absent des CAMPS"
+
+
+# ── Tests avec données (skip si fichiers absents) ─────────────────────────
+
 def test_config_candidates_exists():
     """Les fichiers de config candidats existent."""
     p = _ROOT / "config" / "candidates_paris2026.csv"

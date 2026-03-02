@@ -56,3 +56,7 @@ Les données ne sont pas pondérées par la représentativité démographique. L
 
 **Schéma causal hypothétique** :  
 Audience nationale (Knafo eurodéputée) → ER élevé → replies massives → echo score élevé. La polarisation et l’engagement sont des variables mutuellement renforçantes : une audience polarisée produit plus de replies ; des replies polarisées augmentent l’echo score.
+
+---
+
+Pour les références académiques, voir [REFERENCES.md](REFERENCES.md).
