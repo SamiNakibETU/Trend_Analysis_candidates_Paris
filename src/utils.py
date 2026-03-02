@@ -1,7 +1,7 @@
 """
 Utilitaires de visualisation et chargement. Style Swiss, palette candidats.
 Compatibilité avec les données (candidate = Gregoire dans les CSV).
-Depuis publication/notebooks/, les chemins pointent vers ../../final/
+Depuis notebooks/, les chemins pointent vers final/
 """
 import matplotlib.pyplot as plt
 import pandas as pd

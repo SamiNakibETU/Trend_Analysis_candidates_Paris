@@ -75,7 +75,7 @@ Stats et outlines prêts à l'emploi pour articles et threads.
 
 ---
 
-## Figures à embarquer (chemins publication/figures/)
+## Figures à embarquer (chemins figures/)
 
 | Figure | Usage |
 |--------|-------|

@@ -39,25 +39,7 @@ jupyter notebook notebooks/01_engagement_viralite.ipynb
 ## À propos
 
 Projet personnel — analyse OSINT et data science des campagnes numériques municipales.  
-**Sami Nakib** · [GitHub](https://github.com/SamiNakibETU) · *[LinkedIn à compléter] · Formation : [à compléter]*
-
----
-
-## Setup développeur
-
-```bash
-# Config git (éviter "Your Name" sur les commits)
-git config user.name "Sami Nakib"
-git config user.email "votre@email.com"
-
-# Cohen's kappa (validation sentiment)
-make kappa-sample    # → outputs/.../kappa_sample_200.csv
-# Remplir sentiment_human, puis :
-make kappa-calc      # → docs/kappa_results.md
-
-# Tests
-make test
-```
+**Sami Nakib** · [GitHub](https://github.com/SamiNakibETU)
 
 ---
 

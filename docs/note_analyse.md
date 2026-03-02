@@ -24,4 +24,4 @@ Le Jaccard diminue quand la distance idéologique croît. Les paires Bournazel-D
 
 ## Données et reproductibilité
 
-Les résultats chiffrés exhaustifs sont dans `RESULTATS_CHIFFRES.md`, généré par `scripts/export_resultats_chiffres.py`. La méthodologie est détaillée dans `methodologie.md`. Les notebooks 01 à 09 reproduisent les analyses à partir des données placées dans `../../final/data/`.
+Les résultats chiffrés exhaustifs sont dans `RESULTATS_CHIFFRES.md`, généré par `scripts/export_resultats_chiffres.py`. La méthodologie est détaillée dans `methodologie.md`. Les notebooks 01 à 09 reproduisent les analyses à partir des données placées dans `final/data/`.
