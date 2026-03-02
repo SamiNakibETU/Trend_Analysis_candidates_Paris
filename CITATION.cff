@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Paris Municipales 2026 — Analyse quantitative des réseaux sociaux"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Nakib"
+    given-names: "Sami"
+url: "https://github.com/SamiNakibETU/Trend_Analysis_candidates_Paris"
+repository-code: "https://github.com/SamiNakibETU/Trend_Analysis_candidates_Paris"
+license: MIT

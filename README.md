@@ -1,49 +1,64 @@
-# Paris Municipales 2026 — Analyse quantitative des réseaux sociaux
+# 🗳️ Paris 2026 — Qui domine la conversation numérique ?
 
-7 659 tweets · 3 317 posts Instagram · 44 599 réponses classifiées · 8 candidats · 13 mois
+> Analyse quantitative de 7 659 tweets, 44 599 réponses et 3 317 posts Instagram
+> de 8 candidats aux municipales de Paris. 13 mois. NLP. Réseaux. OSINT.
 
-Analyse des campagnes numériques (Twitter, Instagram) des candidats aux municipales de Paris 2026 : engagement, sentiment, echo chambers, interactions, cross-platform.
+![Classement ER par candidat — Twitter](figures/01_er_classement.png)
 
 ---
 
-## Structure
+## 3 résultats clés
 
-```
-├── notebooks/      # 9 notebooks d'analyse (01→09)
-├── figures/        # PNG 300 DPI
-├── docs/           # Méthodologie, résultats, matériau articles
-├── scripts/        # Export chiffres, fine-tuning CamemBERT
-├── src/utils.py   # Palette, style, fonctions de visualisation
-├── config/         # Candidats, requêtes
-├── final/          # Données et outputs pipeline (data/, A1–A7)
-└── outputs/        # Données intermédiaires (analysis_v3)
-```
+1. **Knafo domine l'engagement** — ER médian 11,5 ‰ (×5 la médiane des 7 autres). Distribution très asymétrique : quelques pics viraux expliquent l’écart.
+2. **Grégoire = hub des mentions** — 80 des 139 mentions cross-candidats (57 %). Quand les candidats s’attaquent, ils parlent de lui.
+3. **Echo chambers marqués** — Knafo 88 %, Chikirou 78 %, Dati 77 %. Homophilie idéologique : corrélation ρ ≈ −0,60 entre proximité idéologique et chevauchement d’audience.
+
+---
+
+## Liens
+
+| Ressource | Contenu |
+|-----------|---------|
+| [Méthodologie](docs/methodologie.md) | ER, NSI, echo score, LDA, limites |
+| [Résultats chiffrés](docs/RESULTATS_CHIFFRES.md) | Tableaux exhaustifs, p-values |
+| [Notebooks](notebooks/) | 9 notebooks d’analyse (engagement → BERT) |
+| [Note d'analyse](docs/note_analyse.md) | Synthèse narrative, findings |
 
 ---
 
 ## Reproduction
 
-1. Placer les données (`tweets_twitter.csv`, `posts_instagram.csv`, `replies_classified.csv`) dans `final/data/`
-2. `pip install -r requirements.txt`
-3. Exécuter les notebooks dans l'ordre : `jupyter notebook notebooks/01_engagement_viralite.ipynb`
-
-Pour régénérer les résultats : `python scripts/export_resultats_chiffres.py`
-
-**Fine-tuning CamemBERT** : `python scripts/prepare_annotations.py` puis `python scripts/train_sentiment_bert.py`
+```bash
+pip install -r requirements.txt
+# Placer tweets_twitter.csv, posts_instagram.csv, replies_classified.csv dans final/data/
+jupyter notebook notebooks/01_engagement_viralite.ipynb
+```
 
 ---
 
-## Méthodologie
+## À propos
 
-- **ER** : (likes + comments + shares) / followers × 100
-- **NSI** : (SOUTIEN − HOSTILITÉ) / total
-- **Echo score** : 100 − cross_camp_pct
-- **Lift** : (ER_cross − ER_normal) / ER_normal
-
-Références : Rathje et al. 2021, Barberá 2020, Cinelli et al. 2022.
+Projet personnel — analyse OSINT et data science des campagnes numériques municipales.  
+**Sami Nakib** · [GitHub](https://github.com/SamiNakibETU) · *[LinkedIn à compléter] · Formation : [à compléter]*
 
 ---
 
-## Licence
+## Setup développeur
 
-MIT
+```bash
+# Config git (éviter "Your Name" sur les commits)
+git config user.name "Sami Nakib"
+git config user.email "votre@email.com"
+
+# Cohen's kappa (validation sentiment)
+make kappa-sample    # → outputs/.../kappa_sample_200.csv
+# Remplir sentiment_human, puis :
+make kappa-calc      # → docs/kappa_results.md
+
+# Tests
+make test
+```
+
+---
+
+*Licence MIT*

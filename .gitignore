@@ -23,6 +23,12 @@ final/A6_bert_finetuning/outputs/camembert_finetuned*/
 config/facebook_cookies*
 config/insta_username.txt
 config/test_candidates.csv
+clean_repo/
+Revirement_politique_fr_gaza/
+final/nb_cells*.txt
+final/cell*.txt
+final/audit*.txt
+final/inspect*.txt
 
 # Python
 __pycache__/

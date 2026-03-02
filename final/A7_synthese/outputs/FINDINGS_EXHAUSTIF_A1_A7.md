@@ -24,7 +24,7 @@
 ```
 ✓ Cellule 0 OK — Configuration chargée
   Palette : 8 candidats
-  Output  : D:\Users\Proprietaire\Desktop\Projet_perso\Presidentielle_tracker\final\A1_temporal\outputs
+  Output  : final/A1_temporal/outputs
 ```
 
 ```
@@ -222,7 +222,7 @@ F5 — Intensification de l'activité en fin de période
 ```
 ✓ Cellule 0 OK — A2 Topics configuré
   Topics palette : 10 topics
-  Output : D:\Users\Proprietaire\Desktop\Projet_perso\Presidentielle_tracker\final\A2_topics\outputs
+  Output : final/A2_topics/outputs
 ```
 
 ```
@@ -425,7 +425,7 @@ CROISEMENT ANOMALIES × TOPICS
 
 ```
 ✓ Cellule 0 OK — A3 Sentiment configuré
-  Output : D:\Users\Proprietaire\Desktop\Projet_perso\Presidentielle_tracker\final\A3_sentiment\outputs
+  Output : final/A3_sentiment/outputs
 ```
 
 ```
@@ -1123,7 +1123,7 @@ A4 COMPLET
 
 ```
 A5 — Initialisation OK
-Outputs -> D:\Users\Proprietaire\Desktop\Projet_perso\Presidentielle_tracker\final\A5_interactions\outputs
+Outputs -> final/A5_interactions/outputs
 ```
 
 ```
@@ -1343,7 +1343,7 @@ A5 COMPLET
 A6 — Initialisation OK
 Labels : ['CRITIQUE', 'HOSTILITE', 'IRONIE', 'SOUTIEN']
 Cache HF : D:\hf_cache
-Outputs -> D:\Users\Proprietaire\Desktop\Projet_perso\Presidentielle_tracker\final\A6_bert_finetuning\outputs
+Outputs -> final/A6_bert_finetuning/outputs
 ```
 
 ```
