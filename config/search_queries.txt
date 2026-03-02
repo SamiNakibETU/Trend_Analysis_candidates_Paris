@@ -1,0 +1,62 @@
+# Requetes de recherche pour Nitter Search Scraper
+# Une requete par ligne
+# Les lignes commencant par # sont ignorees
+# Mise a jour: 12 Fevrier 2026
+
+# === MOTS-CLES GENERAUX MUNICIPALES PARIS ===
+municipales paris 2026
+mairie de paris
+#Paris2026
+#municipales2026
+#ChangerParis
+#MunicipaleParis
+election paris 2026
+maire paris
+
+# === CANDIDATS - NOMS + PARIS ===
+Rachida Dati paris
+Emmanuel Gregoire paris
+Ian Brossat paris
+Sophia Chikirou paris
+David Belliard paris
+Sarah Knafo paris
+Thierry Mariani paris
+Pierre-Yves Bournazel paris
+
+# === CANDIDATS - HANDLES / MENTIONS ===
+@datirachida
+@egregoire
+@IanBrossat
+@chikirouparis
+@David_Belliard
+@knafo_sarah
+@ThierryMARIANI
+@pybournazel
+
+# === CANDIDATS - FROM (tweets propres) ===
+from:datirachida
+from:egregoire
+from:IanBrossat
+from:chikirouparis
+from:David_Belliard
+from:knafo_sarah
+from:ThierryMARIANI
+from:pybournazel
+
+# === PARTIS + PARIS ===
+LR paris mairie
+PS paris municipales
+LFI paris
+EELV paris municipales
+RN paris mairie
+PCF paris
+Reconquete paris
+
+# === THEMES DE CAMPAGNE ===
+logement paris
+transport paris
+securite paris
+proprete paris
+ecologie paris municipales
+velo paris
+JO Paris heritage

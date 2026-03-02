@@ -1,0 +1,18 @@
+# Instances Nitter fonctionnelles pour la RECHERCHE
+# Mise a jour: 12 Fevrier 2026
+# Testees et fonctionnelles ce jour
+
+# OFFICIELLE - PAS d'anti-bot, charge instantanement (PRIORITAIRE)
+https://nitter.net
+
+# Allemagne - Fonctionne apres challenge Anubis PoW (~10s)
+https://nitter.tiekoetter.com
+
+# US/DE - NSFW enabled, Anubis PoW
+https://nitter.catsarch.com
+
+# US - Cloudflare (parfois bloque)
+https://nitter.poast.org
+
+# Finlande - Anubis PoW
+https://nitter.privacyredirect.com

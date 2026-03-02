@@ -1,0 +1,9 @@
+candidate_id,candidate_label,total_replies,pct_soutien,pct_critique,pct_hostilite,pct_ironie,pct_neutre,polarization_index,net_support,controversy_score
+david_belliard,D. Belliard (EELV),1914,0.0486,0.0266,0.0204,0.0063,0.8981,0.0274,0.0282,0.1019
+emmanuel_gregoire,E. Gregoire (PS),650,0.0754,0.0169,0.0062,0.0031,0.8985,0.0093,0.0692,0.1015
+ian_brossat,I. Brossat (PCF),1728,0.037,0.0023,0.0017,0.0,0.9589,0.0017,0.0353,0.0411
+pierre_yves_bournazel,P-Y. Bournazel (Horizons),4824,0.0506,0.0122,0.0126,0.0033,0.9212,0.0162,0.0379,0.0788
+rachida_dati,R. Dati (LR),8419,0.0355,0.0101,0.0097,0.002,0.9426,0.0119,0.0258,0.0574
+sarah_knafo,S. Knafo (Reconquete),24106,0.1254,0.0102,0.009,0.002,0.8534,0.0112,0.1164,0.1466
+sophia_chikirou,S. Chikirou (LFI),805,0.046,0.0087,0.0224,0.0012,0.9217,0.0242,0.0236,0.0783
+thierry_mariani,T. Mariani (RN),2153,0.0418,0.0023,0.0037,0.0,0.9522,0.0037,0.0381,0.0478

@@ -1,0 +1,27 @@
+# Instances Nitter fonctionnelles (source: https://github.com/zedeus/nitter/wiki/Instances)
+# Mise a jour: 12 Fevrier 2026
+# Testees et fonctionnelles ce jour
+
+# OFFICIELLE - Pays-Bas - PAS d'anti-bot, charge instantanement (PRIORITAIRE)
+https://nitter.net
+
+# Allemagne - Fonctionne apres challenge Anubis PoW (~10s)
+https://nitter.tiekoetter.com
+
+# US/DE - NSFW enabled, Anubis PoW
+https://nitter.catsarch.com
+
+# Turquie - Cloudflare
+https://lightbrd.com
+
+# Chili - Cloudflare
+https://nuku.trabun.org
+
+# US - Cloudflare (parfois bloque)
+https://nitter.poast.org
+
+# Finlande - Anubis PoW
+https://nitter.privacyredirect.com
+
+# US - Verification page
+https://xcancel.com

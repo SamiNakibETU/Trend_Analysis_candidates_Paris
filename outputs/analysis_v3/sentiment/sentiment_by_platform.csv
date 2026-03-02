@@ -1,0 +1,17 @@
+candidate_id,candidate_label,platform,total_replies,pct_soutien,pct_critique,pct_hostilite,pct_ironie,pct_neutre
+david_belliard,D. Belliard (EELV),instagram,405,0.1309,0.0296,0.0198,0.0074,0.8123
+david_belliard,D. Belliard (EELV),twitter,1509,0.0265,0.0258,0.0205,0.006,0.9211
+emmanuel_gregoire,E. Gregoire (PS),instagram,397,0.1058,0.0151,0.0025,0.0025,0.8741
+emmanuel_gregoire,E. Gregoire (PS),twitter,253,0.0277,0.0198,0.0119,0.004,0.9368
+ian_brossat,I. Brossat (PCF),instagram,542,0.072,0.0074,0.0055,0.0,0.9151
+ian_brossat,I. Brossat (PCF),twitter,1186,0.0211,0.0,0.0,0.0,0.9789
+pierre_yves_bournazel,P-Y. Bournazel (Horizons),instagram,132,0.1364,0.0,0.0,0.0,0.8636
+pierre_yves_bournazel,P-Y. Bournazel (Horizons),twitter,4692,0.0482,0.0126,0.013,0.0034,0.9228
+rachida_dati,R. Dati (LR),instagram,165,0.1152,0.0667,0.0788,0.0061,0.7333
+rachida_dati,R. Dati (LR),twitter,8254,0.0339,0.009,0.0084,0.0019,0.9468
+sarah_knafo,S. Knafo (Reconquete),instagram,947,0.1721,0.0106,0.0106,0.0042,0.8025
+sarah_knafo,S. Knafo (Reconquete),twitter,23159,0.1235,0.0101,0.0089,0.0019,0.8555
+sophia_chikirou,S. Chikirou (LFI),instagram,343,0.0379,0.0058,0.0292,0.0,0.9271
+sophia_chikirou,S. Chikirou (LFI),twitter,462,0.0519,0.0108,0.0173,0.0022,0.9177
+thierry_mariani,T. Mariani (RN),instagram,82,0.0732,0.0366,0.0732,0.0,0.8171
+thierry_mariani,T. Mariani (RN),twitter,2071,0.0406,0.001,0.001,0.0,0.9575

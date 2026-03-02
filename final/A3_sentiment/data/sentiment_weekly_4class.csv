@@ -1,0 +1,145 @@
+﻿candidate_id,candidate,parti,camp,year_week,week_start,n_replies,n_soutien,n_critique,n_hostilite,n_ironie,n_inconnu,pct_soutien,pct_critique,pct_hostilite,pct_ironie,net_support,polarization
+david_belliard,Belliard,EELV,Gauche,2025-W06,2025-02-03,14,4,4,4,2,0,28.57,28.57,28.57,14.29,-14.29,42.86
+david_belliard,Belliard,EELV,Gauche,2025-W16,2025-04-14,8,4,4,0,0,0,50.0,50.0,0.0,0.0,50.0,0.0
+david_belliard,Belliard,EELV,Gauche,2025-W20,2025-05-12,21,13,4,3,0,1,61.9,19.05,14.29,0.0,47.62,14.29
+david_belliard,Belliard,EELV,Gauche,2025-W24,2025-06-09,24,7,11,4,2,0,29.17,45.83,16.67,8.33,4.17,25.0
+david_belliard,Belliard,EELV,Gauche,2025-W29,2025-07-14,29,11,9,5,3,1,37.93,31.03,17.24,10.34,10.34,27.59
+david_belliard,Belliard,EELV,Gauche,2025-W33,2025-08-11,16,7,7,0,2,0,43.75,43.75,0.0,12.5,31.25,12.5
+david_belliard,Belliard,EELV,Gauche,2025-W37,2025-09-08,15,7,6,2,0,0,46.67,40.0,13.33,0.0,33.33,13.33
+david_belliard,Belliard,EELV,Gauche,2025-W38,2025-09-15,8,5,3,0,0,0,62.5,37.5,0.0,0.0,62.5,0.0
+david_belliard,Belliard,EELV,Gauche,2025-W41,2025-10-06,5,0,4,0,1,0,0.0,80.0,0.0,20.0,-20.0,20.0
+david_belliard,Belliard,EELV,Gauche,2025-W43,2025-10-20,4,1,2,1,0,0,25.0,50.0,25.0,0.0,0.0,25.0
+david_belliard,Belliard,EELV,Gauche,2025-W46,2025-11-10,4,0,4,0,0,0,0.0,100.0,0.0,0.0,0.0,0.0
+david_belliard,Belliard,EELV,Gauche,2025-W47,2025-11-17,40,21,10,5,4,0,52.5,25.0,12.5,10.0,30.0,22.5
+david_belliard,Belliard,EELV,Gauche,2025-W50,2025-12-08,16,1,10,5,0,0,6.25,62.5,31.25,0.0,-25.0,31.25
+david_belliard,Belliard,EELV,Gauche,2025-W51,2025-12-15,52,17,18,9,8,0,32.69,34.62,17.31,15.38,0.0,32.69
+david_belliard,Belliard,EELV,Gauche,2026-W04,2026-01-19,64,8,25,23,7,1,12.5,39.06,35.94,10.94,-34.38,46.88
+david_belliard,Belliard,EELV,Gauche,2026-W05,2026-01-26,28,3,15,4,5,1,10.71,53.57,14.29,17.86,-21.43,32.14
+david_belliard,Belliard,EELV,Gauche,2026-W06,2026-02-02,32,9,13,9,1,0,28.12,40.62,28.12,3.12,-3.12,31.25
+david_belliard,Belliard,EELV,Gauche,2026-W07,2026-02-09,18,4,10,1,3,0,22.22,55.56,5.56,16.67,0.0,22.22
+david_belliard,Belliard,EELV,Gauche,2026-W08,2026-02-16,7,1,4,2,0,0,14.29,57.14,28.57,0.0,-14.29,28.57
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W06,2025-02-03,13,10,3,0,0,0,76.92,23.08,0.0,0.0,76.92,0.0
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W20,2025-05-12,6,6,0,0,0,0,100.0,0.0,0.0,0.0,100.0,0.0
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W24,2025-06-09,5,3,1,0,1,0,60.0,20.0,0.0,20.0,40.0,20.0
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W25,2025-06-16,6,2,4,0,0,0,33.33,66.67,0.0,0.0,33.33,0.0
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W29,2025-07-14,9,5,1,2,1,0,55.56,11.11,22.22,11.11,22.22,33.33
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W33,2025-08-11,6,2,2,1,1,0,33.33,33.33,16.67,16.67,0.0,33.33
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W37,2025-09-08,12,3,5,0,4,0,25.0,41.67,0.0,33.33,-8.33,33.33
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W38,2025-09-15,4,1,3,0,0,0,25.0,75.0,0.0,0.0,25.0,0.0
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W41,2025-10-06,7,5,2,0,0,0,71.43,28.57,0.0,0.0,71.43,0.0
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W46,2025-11-10,22,9,10,1,2,0,40.91,45.45,4.55,9.09,27.27,13.64
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W50,2025-12-08,60,23,31,3,3,0,38.33,51.67,5.0,5.0,28.33,10.0
+emmanuel_gregoire,Gregoire,PS,Gauche,2025-W51,2025-12-15,2,0,2,0,0,0,0.0,100.0,0.0,0.0,0.0,0.0
+emmanuel_gregoire,Gregoire,PS,Gauche,2026-W02,2026-01-05,45,11,17,11,6,0,24.44,37.78,24.44,13.33,-13.33,37.78
+emmanuel_gregoire,Gregoire,PS,Gauche,2026-W03,2026-01-12,28,6,12,4,6,0,21.43,42.86,14.29,21.43,-14.29,35.71
+emmanuel_gregoire,Gregoire,PS,Gauche,2026-W04,2026-01-19,33,9,16,6,2,0,27.27,48.48,18.18,6.06,3.03,24.24
+emmanuel_gregoire,Gregoire,PS,Gauche,2026-W05,2026-01-26,34,4,20,10,0,0,11.76,58.82,29.41,0.0,-17.65,29.41
+emmanuel_gregoire,Gregoire,PS,Gauche,2026-W06,2026-02-02,31,11,13,3,4,0,35.48,41.94,9.68,12.9,12.9,22.58
+emmanuel_gregoire,Gregoire,PS,Gauche,2026-W07,2026-02-09,56,13,28,8,7,0,23.21,50.0,14.29,12.5,-3.57,26.79
+emmanuel_gregoire,Gregoire,PS,Gauche,2026-W08,2026-02-16,18,2,12,3,1,0,11.11,66.67,16.67,5.56,-11.11,22.22
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W06,2025-02-03,46,22,12,8,4,0,47.83,26.09,17.39,8.7,21.74,26.09
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W16,2025-04-14,18,6,8,2,1,1,33.33,44.44,11.11,5.56,16.67,16.67
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W17,2025-04-21,3,1,0,2,0,0,33.33,0.0,66.67,0.0,-33.33,66.67
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W20,2025-05-12,6,2,2,1,1,0,33.33,33.33,16.67,16.67,0.0,33.33
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W24,2025-06-09,22,6,8,7,1,0,27.27,36.36,31.82,4.55,-9.09,36.36
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W29,2025-07-14,28,8,6,9,4,1,28.57,21.43,32.14,14.29,-17.86,46.43
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W33,2025-08-11,16,7,4,4,0,1,43.75,25.0,25.0,0.0,18.75,25.0
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W37,2025-09-08,53,13,20,12,8,0,24.53,37.74,22.64,15.09,-13.21,37.74
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W41,2025-10-06,69,13,26,23,7,0,18.84,37.68,33.33,10.14,-24.64,43.48
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W46,2025-11-10,72,14,26,21,10,1,19.44,36.11,29.17,13.89,-23.61,43.06
+ian_brossat,Brossat,PCF,Gauche radicale,2025-W50,2025-12-08,66,13,31,15,4,3,19.7,46.97,22.73,6.06,-9.09,28.79
+ian_brossat,Brossat,PCF,Gauche radicale,2026-W02,2026-01-05,62,15,18,21,7,1,24.19,29.03,33.87,11.29,-20.97,45.16
+ian_brossat,Brossat,PCF,Gauche radicale,2026-W03,2026-01-12,14,1,4,3,6,0,7.14,28.57,21.43,42.86,-57.14,64.29
+ian_brossat,Brossat,PCF,Gauche radicale,2026-W04,2026-01-19,10,1,4,5,0,0,10.0,40.0,50.0,0.0,-40.0,50.0
+ian_brossat,Brossat,PCF,Gauche radicale,2026-W05,2026-01-26,9,1,3,5,0,0,11.11,33.33,55.56,0.0,-44.44,55.56
+ian_brossat,Brossat,PCF,Gauche radicale,2026-W06,2026-02-02,13,0,4,6,3,0,0.0,30.77,46.15,23.08,-69.23,69.23
+ian_brossat,Brossat,PCF,Gauche radicale,2026-W07,2026-02-09,34,3,14,16,1,0,8.82,41.18,47.06,2.94,-41.18,50.0
+ian_brossat,Brossat,PCF,Gauche radicale,2026-W08,2026-02-16,1,0,0,1,0,0,0.0,0.0,100.0,0.0,-100.0,100.0
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2025-W08,2025-02-17,8,6,2,0,0,0,75.0,25.0,0.0,0.0,75.0,0.0
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2025-W17,2025-04-21,2,1,1,0,0,0,50.0,50.0,0.0,0.0,50.0,0.0
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2025-W21,2025-05-19,3,3,0,0,0,0,100.0,0.0,0.0,0.0,100.0,0.0
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2025-W26,2025-06-23,11,4,3,3,1,0,36.36,27.27,27.27,9.09,0.0,36.36
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2025-W30,2025-07-21,14,5,7,2,0,0,35.71,50.0,14.29,0.0,21.43,14.29
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2025-W39,2025-09-22,2,1,1,0,0,0,50.0,50.0,0.0,0.0,50.0,0.0
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2025-W43,2025-10-20,8,5,1,1,1,0,62.5,12.5,12.5,12.5,37.5,25.0
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2025-W47,2025-11-17,18,6,8,3,1,0,33.33,44.44,16.67,5.56,11.11,22.22
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2025-W51,2025-12-15,16,5,5,5,1,0,31.25,31.25,31.25,6.25,-6.25,37.5
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2026-W04,2026-01-19,27,10,9,5,3,0,37.04,33.33,18.52,11.11,7.41,29.63
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2026-W05,2026-01-26,9,2,5,0,2,0,22.22,55.56,0.0,22.22,0.0,22.22
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2026-W06,2026-02-02,3,0,2,0,1,0,0.0,66.67,0.0,33.33,-33.33,33.33
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2026-W07,2026-02-09,5,0,2,3,0,0,0.0,40.0,60.0,0.0,-60.0,60.0
+pierre_yves_bournazel,Bournazel,Horizons,Centre-droit,2026-W08,2026-02-16,6,0,5,1,0,0,0.0,83.33,16.67,0.0,-16.67,16.67
+rachida_dati,Dati,LR,Droite,2025-W06,2025-02-03,19,8,7,3,1,0,42.11,36.84,15.79,5.26,21.05,21.05
+rachida_dati,Dati,LR,Droite,2025-W08,2025-02-17,2,0,2,0,0,0,0.0,100.0,0.0,0.0,0.0,0.0
+rachida_dati,Dati,LR,Droite,2025-W16,2025-04-14,10,2,4,4,0,0,20.0,40.0,40.0,0.0,-20.0,40.0
+rachida_dati,Dati,LR,Droite,2025-W17,2025-04-21,2,2,0,0,0,0,100.0,0.0,0.0,0.0,100.0,0.0
+rachida_dati,Dati,LR,Droite,2025-W20,2025-05-12,2,1,0,0,1,0,50.0,0.0,0.0,50.0,0.0,50.0
+rachida_dati,Dati,LR,Droite,2025-W21,2025-05-19,1,1,0,0,0,0,100.0,0.0,0.0,0.0,100.0,0.0
+rachida_dati,Dati,LR,Droite,2025-W24,2025-06-09,10,4,3,3,0,0,40.0,30.0,30.0,0.0,10.0,30.0
+rachida_dati,Dati,LR,Droite,2025-W29,2025-07-14,5,0,4,1,0,0,0.0,80.0,20.0,0.0,-20.0,20.0
+rachida_dati,Dati,LR,Droite,2025-W30,2025-07-21,1,0,1,0,0,0,0.0,100.0,0.0,0.0,0.0,0.0
+rachida_dati,Dati,LR,Droite,2025-W33,2025-08-11,4,0,2,0,2,0,0.0,50.0,0.0,50.0,-50.0,50.0
+rachida_dati,Dati,LR,Droite,2025-W37,2025-09-08,6,1,2,3,0,0,16.67,33.33,50.0,0.0,-33.33,50.0
+rachida_dati,Dati,LR,Droite,2025-W41,2025-10-06,1,0,1,0,0,0,0.0,100.0,0.0,0.0,0.0,0.0
+rachida_dati,Dati,LR,Droite,2025-W46,2025-11-10,19,8,6,2,3,0,42.11,31.58,10.53,15.79,15.79,26.32
+rachida_dati,Dati,LR,Droite,2025-W50,2025-12-08,23,8,8,5,2,0,34.78,34.78,21.74,8.7,4.35,30.43
+rachida_dati,Dati,LR,Droite,2025-W51,2025-12-15,2,0,1,1,0,0,0.0,50.0,50.0,0.0,-50.0,50.0
+rachida_dati,Dati,LR,Droite,2026-W02,2026-01-05,4,1,1,1,1,0,25.0,25.0,25.0,25.0,-25.0,50.0
+rachida_dati,Dati,LR,Droite,2026-W03,2026-01-12,1,1,0,0,0,0,100.0,0.0,0.0,0.0,100.0,0.0
+rachida_dati,Dati,LR,Droite,2026-W05,2026-01-26,3,0,3,0,0,0,0.0,100.0,0.0,0.0,0.0,0.0
+rachida_dati,Dati,LR,Droite,2026-W06,2026-02-02,1,0,0,1,0,0,0.0,0.0,100.0,0.0,-100.0,100.0
+rachida_dati,Dati,LR,Droite,2026-W07,2026-02-09,7,3,2,1,1,0,42.86,28.57,14.29,14.29,14.29,28.57
+rachida_dati,Dati,LR,Droite,2026-W08,2026-02-16,41,8,15,15,3,0,19.51,36.59,36.59,7.32,-24.39,43.9
+sarah_knafo,Knafo,Reconquete,Droite,2025-W08,2025-02-17,122,67,18,22,15,0,54.92,14.75,18.03,12.3,24.59,30.33
+sarah_knafo,Knafo,Reconquete,Droite,2025-W17,2025-04-21,12,4,4,3,1,0,33.33,33.33,25.0,8.33,0.0,33.33
+sarah_knafo,Knafo,Reconquete,Droite,2025-W20,2025-05-12,10,3,2,5,0,0,30.0,20.0,50.0,0.0,-20.0,50.0
+sarah_knafo,Knafo,Reconquete,Droite,2025-W21,2025-05-19,34,15,8,8,2,1,44.12,23.53,23.53,5.88,14.71,29.41
+sarah_knafo,Knafo,Reconquete,Droite,2025-W24,2025-06-09,26,10,11,3,2,0,38.46,42.31,11.54,7.69,19.23,19.23
+sarah_knafo,Knafo,Reconquete,Droite,2025-W25,2025-06-16,31,10,8,10,2,1,32.26,25.81,32.26,6.45,-6.45,38.71
+sarah_knafo,Knafo,Reconquete,Droite,2025-W29,2025-07-14,38,21,5,8,4,0,55.26,13.16,21.05,10.53,23.68,31.58
+sarah_knafo,Knafo,Reconquete,Droite,2025-W30,2025-07-21,14,7,2,4,1,0,50.0,14.29,28.57,7.14,14.29,35.71
+sarah_knafo,Knafo,Reconquete,Droite,2025-W33,2025-08-11,24,12,8,3,1,0,50.0,33.33,12.5,4.17,33.33,16.67
+sarah_knafo,Knafo,Reconquete,Droite,2025-W34,2025-08-18,10,4,3,2,1,0,40.0,30.0,20.0,10.0,10.0,30.0
+sarah_knafo,Knafo,Reconquete,Droite,2025-W37,2025-09-08,33,18,5,6,4,0,54.55,15.15,18.18,12.12,24.24,30.3
+sarah_knafo,Knafo,Reconquete,Droite,2025-W38,2025-09-15,8,1,4,2,1,0,12.5,50.0,25.0,12.5,-25.0,37.5
+sarah_knafo,Knafo,Reconquete,Droite,2025-W41,2025-10-06,77,33,18,21,5,0,42.86,23.38,27.27,6.49,9.09,33.77
+sarah_knafo,Knafo,Reconquete,Droite,2025-W43,2025-10-20,5,3,1,0,1,0,60.0,20.0,0.0,20.0,40.0,20.0
+sarah_knafo,Knafo,Reconquete,Droite,2025-W46,2025-11-10,62,19,27,13,3,0,30.65,43.55,20.97,4.84,4.84,25.81
+sarah_knafo,Knafo,Reconquete,Droite,2025-W47,2025-11-17,10,3,4,2,1,0,30.0,40.0,20.0,10.0,0.0,30.0
+sarah_knafo,Knafo,Reconquete,Droite,2025-W50,2025-12-08,58,40,5,9,3,1,68.97,8.62,15.52,5.17,48.28,20.69
+sarah_knafo,Knafo,Reconquete,Droite,2025-W51,2025-12-15,35,22,3,6,2,2,62.86,8.57,17.14,5.71,40.0,22.86
+sarah_knafo,Knafo,Reconquete,Droite,2026-W02,2026-01-05,58,28,14,14,2,0,48.28,24.14,24.14,3.45,20.69,27.59
+sarah_knafo,Knafo,Reconquete,Droite,2026-W03,2026-01-12,35,15,11,4,5,0,42.86,31.43,11.43,14.29,17.14,25.71
+sarah_knafo,Knafo,Reconquete,Droite,2026-W04,2026-01-19,19,6,8,2,2,1,31.58,42.11,10.53,10.53,10.53,21.05
+sarah_knafo,Knafo,Reconquete,Droite,2026-W05,2026-01-26,15,6,4,4,1,0,40.0,26.67,26.67,6.67,6.67,33.33
+sarah_knafo,Knafo,Reconquete,Droite,2026-W06,2026-02-02,45,29,6,4,4,2,64.44,13.33,8.89,8.89,46.67,17.78
+sarah_knafo,Knafo,Reconquete,Droite,2026-W07,2026-02-09,112,56,19,23,13,1,50.0,16.96,20.54,11.61,17.86,32.14
+sarah_knafo,Knafo,Reconquete,Droite,2026-W08,2026-02-16,54,22,16,8,8,0,40.74,29.63,14.81,14.81,11.11,29.63
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W06,2025-02-03,1,1,0,0,0,0,100.0,0.0,0.0,0.0,100.0,0.0
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W16,2025-04-14,4,0,2,1,1,0,0.0,50.0,25.0,25.0,-50.0,50.0
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W20,2025-05-12,3,2,1,0,0,0,66.67,33.33,0.0,0.0,66.67,0.0
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W24,2025-06-09,5,3,1,0,1,0,60.0,20.0,0.0,20.0,40.0,20.0
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W29,2025-07-14,13,1,1,9,2,0,7.69,7.69,69.23,15.38,-76.92,84.62
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W33,2025-08-11,4,0,0,3,1,0,0.0,0.0,75.0,25.0,-100.0,100.0
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W37,2025-09-08,14,2,6,4,2,0,14.29,42.86,28.57,14.29,-28.57,42.86
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W41,2025-10-06,29,3,11,11,4,0,10.34,37.93,37.93,13.79,-41.38,51.72
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W46,2025-11-10,45,11,12,18,4,0,24.44,26.67,40.0,8.89,-24.44,48.89
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W50,2025-12-08,37,6,13,13,5,0,16.22,35.14,35.14,13.51,-32.43,48.65
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2025-W51,2025-12-15,11,3,2,1,5,0,27.27,18.18,9.09,45.45,-27.27,54.55
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2026-W02,2026-01-05,39,4,8,22,4,1,10.26,20.51,56.41,10.26,-56.41,66.67
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2026-W03,2026-01-12,17,0,5,9,3,0,0.0,29.41,52.94,17.65,-70.59,70.59
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2026-W04,2026-01-19,11,0,3,4,4,0,0.0,27.27,36.36,36.36,-72.73,72.73
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2026-W05,2026-01-26,37,3,12,17,5,0,8.11,32.43,45.95,13.51,-51.35,59.46
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2026-W06,2026-02-02,31,5,6,14,6,0,16.13,19.35,45.16,19.35,-48.39,64.52
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2026-W07,2026-02-09,27,5,7,13,2,0,18.52,25.93,48.15,7.41,-37.04,55.56
+sophia_chikirou,Chikirou,LFI,Gauche radicale,2026-W08,2026-02-16,15,3,4,6,1,1,20.0,26.67,40.0,6.67,-26.67,46.67
+thierry_mariani,Mariani,RN,Extreme droite,2025-W08,2025-02-17,5,1,1,3,0,0,20.0,20.0,60.0,0.0,-40.0,60.0
+thierry_mariani,Mariani,RN,Extreme droite,2025-W38,2025-09-15,9,1,3,4,1,0,11.11,33.33,44.44,11.11,-44.44,55.56
+thierry_mariani,Mariani,RN,Extreme droite,2025-W43,2025-10-20,1,0,1,0,0,0,0.0,100.0,0.0,0.0,0.0,0.0
+thierry_mariani,Mariani,RN,Extreme droite,2025-W47,2025-11-17,11,2,4,4,1,0,18.18,36.36,36.36,9.09,-27.27,45.45
+thierry_mariani,Mariani,RN,Extreme droite,2025-W51,2025-12-15,8,3,2,3,0,0,37.5,25.0,37.5,0.0,0.0,37.5
+thierry_mariani,Mariani,RN,Extreme droite,2026-W04,2026-01-19,5,1,1,2,1,0,20.0,20.0,40.0,20.0,-40.0,60.0
+thierry_mariani,Mariani,RN,Extreme droite,2026-W05,2026-01-26,4,2,2,0,0,0,50.0,50.0,0.0,0.0,50.0,0.0
+thierry_mariani,Mariani,RN,Extreme droite,2026-W06,2026-02-02,16,6,6,4,0,0,37.5,37.5,25.0,0.0,12.5,25.0
+thierry_mariani,Mariani,RN,Extreme droite,2026-W07,2026-02-09,14,8,5,0,1,0,57.14,35.71,0.0,7.14,50.0,7.14
+thierry_mariani,Mariani,RN,Extreme droite,2026-W08,2026-02-16,9,3,5,1,0,0,33.33,55.56,11.11,0.0,22.22,11.11

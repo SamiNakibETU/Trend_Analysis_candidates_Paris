@@ -1,0 +1,20 @@
+﻿candidate_id,candidate_label,platform,momentum_slope,r_squared,p_value,direction,last_8w_mean_er,n_weeks_used
+david_belliard,D. Belliard (EELV),twitter,-0.0002719,0.5489,0.0355,baisse,0.002567,8
+emmanuel_gregoire,E. Grégoire (PS),twitter,7.94e-05,0.083,0.489,hausse,0.001775,8
+ian_brossat,I. Brossat (PCF),twitter,-0.00052461,0.5543,0.0341,baisse,0.004837,8
+pierre_yves_bournazel,P-Y. Bournazel (Horizons),twitter,-0.00024702,0.4708,0.0602,baisse,0.003677,8
+rachida_dati,R. Dati (LR),twitter,-0.00024739,0.5304,0.0405,baisse,0.001262,8
+sarah_knafo,S. Knafo (Reconquête),twitter,-0.00108476,0.469,0.0609,baisse,0.007422,8
+sophia_chikirou,S. Chikirou (LFI),twitter,-0.00086592,0.4694,0.0608,baisse,0.0044,8
+thierry_mariani,T. Mariani (RN),twitter,-0.00060892,0.4045,0.0901,baisse,0.002384,8
+david_belliard,D. Belliard (EELV),instagram,-0.00076208,0.3473,0.1242,baisse,0.016505,8
+emmanuel_gregoire,E. Grégoire (PS),instagram,1.394e-05,0.0001,0.9829,hausse,0.022671,8
+ian_brossat,I. Brossat (PCF),instagram,-0.00058058,0.0148,0.7738,baisse,0.023746,8
+pierre_yves_bournazel,P-Y. Bournazel (Horizons),instagram,-10.45833333,0.2045,0.2606,baisse,215.0625,8
+rachida_dati,R. Dati (LR),instagram,-0.00227892,0.1625,0.322,baisse,0.014551,8
+sarah_knafo,S. Knafo (Reconquête),instagram,-0.00235024,0.6456,0.0163,baisse,0.011611,8
+sophia_chikirou,S. Chikirou (LFI),instagram,2.062e-05,0.0,0.9877,hausse,0.016083,8
+thierry_mariani,T. Mariani (RN),instagram,-0.00040788,0.0364,0.6507,baisse,0.010608,8
+emmanuel_gregoire,E. Grégoire (PS),tiktok,-8.144e-05,0.0017,0.9238,baisse,0.041236,8
+sarah_knafo,S. Knafo (Reconquête),tiktok,0.00337914,0.1899,0.2804,hausse,0.074166,8
+sophia_chikirou,S. Chikirou (LFI),tiktok,0.003575,0.1405,0.3602,hausse,0.073254,8

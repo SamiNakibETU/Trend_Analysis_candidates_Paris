@@ -1,0 +1,7 @@
+candidate_id,candidate_label,rho_er_hostilite,p_er_hostilite,rho_er_negative,p_er_negative,rho_er_soutien,p_er_soutien,n_weeks
+david_belliard,D. Belliard (EELV),-0.3,0.6238,-0.3,0.6238,-0.2,0.7471,5
+pierre_yves_bournazel,P-Y. Bournazel (Horizons),0.333,0.017,0.326,0.0196,-0.232,0.1013,51
+rachida_dati,R. Dati (LR),-0.057,0.7737,-0.047,0.8136,0.238,0.2222,28
+sarah_knafo,S. Knafo (Reconquete),-0.102,0.4911,-0.118,0.4233,0.011,0.9428,48
+sophia_chikirou,S. Chikirou (LFI),0.112,0.8579,0.112,0.8579,-0.1,0.8729,5
+thierry_mariani,T. Mariani (RN),0.274,0.4758,0.274,0.4758,-0.059,0.8805,9

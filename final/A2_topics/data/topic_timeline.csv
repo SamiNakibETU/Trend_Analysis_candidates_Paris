@@ -1,0 +1,592 @@
+﻿week,topic_name,n_tweets,avg_eng
+2024-12-30,Education & culture,1,638.0
+2024-12-30,Geopolitique & international,5,474.0
+2024-12-30,Logement & urbanisme,2,11227.5
+2024-12-30,Securite & delinquance,2,185.5
+2024-12-30,Social & solidarite,2,15167.5
+2024-12-30,Soutien / Jour / France,2,116.5
+2024-12-30,Vie locale & citoyennete,1,164.0
+2025-01-06,Vie locale & citoyennete,3,221.0
+2025-01-06,Social & solidarite,12,640.3333333333334
+2025-01-06,Securite & delinquance,7,2229.1428571428573
+2025-01-06,Logement & urbanisme,11,3357.181818181818
+2025-01-06,Soutien / Jour / France,13,909.3846153846154
+2025-01-06,Education & culture,13,2090.3076923076924
+2025-01-06,Deux / Emmanuel / Peuple,2,22464.0
+2025-01-06,Budget & finances,9,8267.888888888889
+2025-01-06,Arrondissement / Liberté / Gauche,6,121.16666666666669
+2025-01-06,Geopolitique & international,13,4501.615384615385
+2025-01-13,Vie locale & citoyennete,11,1237.3636363636365
+2025-01-13,Soutien / Jour / France,3,167.66666666666666
+2025-01-13,Social & solidarite,14,1631.357142857143
+2025-01-13,Securite & delinquance,6,1994.0
+2025-01-13,Logement & urbanisme,14,2441.8571428571427
+2025-01-13,Geopolitique & international,21,4703.333333333333
+2025-01-13,Deux / Emmanuel / Peuple,6,9362.0
+2025-01-13,Budget & finances,13,1672.2307692307693
+2025-01-13,Arrondissement / Liberté / Gauche,7,5531.714285714285
+2025-01-13,Education & culture,10,5099.0
+2025-01-20,Securite & delinquance,8,372.25
+2025-01-20,Vie locale & citoyennete,2,129.5
+2025-01-20,Social & solidarite,9,339.55555555555554
+2025-01-20,Logement & urbanisme,20,1468.35
+2025-01-20,Soutien / Jour / France,11,4631.090909090909
+2025-01-20,Education & culture,13,1999.2307692307693
+2025-01-20,Arrondissement / Liberté / Gauche,7,282.85714285714283
+2025-01-20,Geopolitique & international,23,3808.8260869565215
+2025-01-20,Deux / Emmanuel / Peuple,8,7811.125
+2025-01-20,Budget & finances,20,1510.1
+2025-01-27,Securite & delinquance,6,1822.0
+2025-01-27,Vie locale & citoyennete,7,1062.857142857143
+2025-01-27,Soutien / Jour / France,12,3255.1666666666665
+2025-01-27,Social & solidarite,10,5080.2
+2025-01-27,Logement & urbanisme,11,598.3636363636364
+2025-01-27,Geopolitique & international,21,4244.952380952381
+2025-01-27,Education & culture,19,1074.3157894736842
+2025-01-27,Deux / Emmanuel / Peuple,3,5937.666666666667
+2025-01-27,Budget & finances,16,5617.125
+2025-01-27,Arrondissement / Liberté / Gauche,7,708.1428571428571
+2025-02-03,Soutien / Jour / France,1,38.0
+2025-02-03,Social & solidarite,8,1548.0
+2025-02-03,Securite & delinquance,4,9761.75
+2025-02-03,Logement & urbanisme,9,2819.4444444444443
+2025-02-03,Vie locale & citoyennete,2,1301.0
+2025-02-03,Geopolitique & international,18,5427.777777777777
+2025-02-03,Deux / Emmanuel / Peuple,1,2657.0
+2025-02-03,Budget & finances,31,7313.741935483871
+2025-02-03,Arrondissement / Liberté / Gauche,7,3044.8571428571427
+2025-02-03,Education & culture,11,2492.090909090909
+2025-02-10,Vie locale & citoyennete,5,3197.0
+2025-02-10,Soutien / Jour / France,6,314.0
+2025-02-10,Social & solidarite,4,4189.75
+2025-02-10,Securite & delinquance,4,434.75
+2025-02-10,Logement & urbanisme,18,3295.8888888888887
+2025-02-10,Geopolitique & international,8,6285.125
+2025-02-10,Deux / Emmanuel / Peuple,4,6113.5
+2025-02-10,Budget & finances,9,4662.555555555556
+2025-02-10,Arrondissement / Liberté / Gauche,1,3778.0
+2025-02-10,Education & culture,8,9048.75
+2025-02-17,Securite & delinquance,1,17759.0
+2025-02-17,Vie locale & citoyennete,4,3577.75
+2025-02-17,Soutien / Jour / France,7,6795.857142857143
+2025-02-17,Logement & urbanisme,8,5501.875
+2025-02-17,Social & solidarite,4,11101.5
+2025-02-17,Education & culture,12,6153.833333333333
+2025-02-17,Budget & finances,14,9057.92857142857
+2025-02-17,Geopolitique & international,21,5964.666666666667
+2025-02-17,Deux / Emmanuel / Peuple,1,10701.0
+2025-02-24,Arrondissement / Liberté / Gauche,3,735.3333333333334
+2025-02-24,Budget & finances,10,9168.5
+2025-02-24,Deux / Emmanuel / Peuple,5,1888.0
+2025-02-24,Education & culture,8,2221.25
+2025-02-24,Geopolitique & international,17,5215.882352941177
+2025-02-24,Logement & urbanisme,8,760.625
+2025-02-24,Securite & delinquance,3,5064.333333333333
+2025-02-24,Social & solidarite,11,6156.636363636364
+2025-02-24,Soutien / Jour / France,7,1529.0
+2025-02-24,Vie locale & citoyennete,9,3593.6666666666665
+2025-03-03,Logement & urbanisme,3,147.66666666666666
+2025-03-03,Vie locale & citoyennete,3,253.0
+2025-03-03,Soutien / Jour / France,1,193.0
+2025-03-03,Social & solidarite,2,58.5
+2025-03-03,Securite & delinquance,4,79.0
+2025-03-03,Education & culture,3,1711.6666666666667
+2025-03-03,Deux / Emmanuel / Peuple,2,108.5
+2025-03-03,Budget & finances,3,2250.333333333333
+2025-03-03,Arrondissement / Liberté / Gauche,1,34.0
+2025-03-03,Geopolitique & international,6,619.3333333333334
+2025-03-10,Arrondissement / Liberté / Gauche,8,174.75
+2025-03-10,Budget & finances,5,583.2
+2025-03-10,Education & culture,8,984.625
+2025-03-10,Geopolitique & international,4,1256.75
+2025-03-10,Logement & urbanisme,7,334.42857142857144
+2025-03-10,Securite & delinquance,6,798.6666666666666
+2025-03-10,Social & solidarite,4,298.0
+2025-03-10,Vie locale & citoyennete,10,85.7
+2025-03-17,Securite & delinquance,5,184.2
+2025-03-17,Soutien / Jour / France,9,374.22222222222223
+2025-03-17,Social & solidarite,9,198.11111111111111
+2025-03-17,Vie locale & citoyennete,8,519.5
+2025-03-17,Logement & urbanisme,7,98.71428571428572
+2025-03-17,Education & culture,7,419.57142857142856
+2025-03-17,Arrondissement / Liberté / Gauche,8,149.25
+2025-03-17,Geopolitique & international,5,808.6
+2025-03-17,Deux / Emmanuel / Peuple,4,400.0
+2025-03-17,Budget & finances,6,354.8333333333333
+2025-03-24,Vie locale & citoyennete,10,197.3
+2025-03-24,Soutien / Jour / France,8,22905.0
+2025-03-24,Social & solidarite,10,101.6
+2025-03-24,Logement & urbanisme,27,119.37037037037037
+2025-03-24,Securite & delinquance,4,63.75
+2025-03-24,Education & culture,9,320.22222222222223
+2025-03-24,Deux / Emmanuel / Peuple,5,1374.2
+2025-03-24,Budget & finances,11,263.3636363636364
+2025-03-24,Arrondissement / Liberté / Gauche,8,165.25
+2025-03-24,Geopolitique & international,2,1929.0
+2025-03-31,Vie locale & citoyennete,6,101.33333333333331
+2025-03-31,Soutien / Jour / France,9,15108.666666666666
+2025-03-31,Social & solidarite,5,187.4
+2025-03-31,Securite & delinquance,11,324.1818181818182
+2025-03-31,Logement & urbanisme,9,455.44444444444446
+2025-03-31,Geopolitique & international,16,6260.3125
+2025-03-31,Deux / Emmanuel / Peuple,3,651.6666666666666
+2025-03-31,Budget & finances,6,200390.8333333333
+2025-03-31,Arrondissement / Liberté / Gauche,5,8954.2
+2025-03-31,Education & culture,10,2810.7
+2025-04-07,Vie locale & citoyennete,6,646.1666666666666
+2025-04-07,Soutien / Jour / France,7,156.14285714285714
+2025-04-07,Social & solidarite,7,468.1428571428572
+2025-04-07,Securite & delinquance,5,194.0
+2025-04-07,Logement & urbanisme,10,89.0
+2025-04-07,Geopolitique & international,11,915.4545454545456
+2025-04-07,Deux / Emmanuel / Peuple,1,61.0
+2025-04-07,Budget & finances,13,340.2307692307692
+2025-04-07,Arrondissement / Liberté / Gauche,6,164.0
+2025-04-07,Education & culture,11,25605.727272727272
+2025-04-14,Securite & delinquance,3,1691.6666666666667
+2025-04-14,Soutien / Jour / France,3,2103.6666666666665
+2025-04-14,Social & solidarite,8,16409.75
+2025-04-14,Logement & urbanisme,8,293.75
+2025-04-14,Geopolitique & international,4,137683.5
+2025-04-14,Education & culture,6,23455.666666666668
+2025-04-14,Deux / Emmanuel / Peuple,1,693.0
+2025-04-14,Budget & finances,2,575.0
+2025-04-14,Arrondissement / Liberté / Gauche,4,25805.5
+2025-04-21,Vie locale & citoyennete,2,46.0
+2025-04-21,Soutien / Jour / France,17,1029.2941176470588
+2025-04-21,Social & solidarite,6,118.83333333333331
+2025-04-21,Securite & delinquance,6,135858.16666666666
+2025-04-21,Logement & urbanisme,13,4212.384615384615
+2025-04-21,Education & culture,8,142.625
+2025-04-21,Deux / Emmanuel / Peuple,2,111.5
+2025-04-21,Budget & finances,6,105.83333333333331
+2025-04-21,Arrondissement / Liberté / Gauche,7,302.1428571428572
+2025-04-21,Geopolitique & international,7,27488.285714285717
+2025-04-28,Securite & delinquance,7,7104.428571428572
+2025-04-28,Vie locale & citoyennete,4,13309.0
+2025-04-28,Soutien / Jour / France,10,33007.8
+2025-04-28,Social & solidarite,9,30515.222222222223
+2025-04-28,Logement & urbanisme,10,13442.9
+2025-04-28,Geopolitique & international,11,30586.0
+2025-04-28,Education & culture,11,88561.45454545454
+2025-04-28,Deux / Emmanuel / Peuple,6,667.8333333333334
+2025-04-28,Budget & finances,9,31707.88888888889
+2025-04-28,Arrondissement / Liberté / Gauche,6,59.0
+2025-05-05,Vie locale & citoyennete,2,73.0
+2025-05-05,Soutien / Jour / France,7,3343.285714285714
+2025-05-05,Social & solidarite,10,14313.7
+2025-05-05,Securite & delinquance,5,62419.8
+2025-05-05,Logement & urbanisme,9,79619.88888888889
+2025-05-05,Geopolitique & international,22,23205.045454545456
+2025-05-05,Education & culture,3,97846.66666666669
+2025-05-05,Deux / Emmanuel / Peuple,3,76853.33333333333
+2025-05-05,Budget & finances,7,103367.71428571428
+2025-05-05,Arrondissement / Liberté / Gauche,4,524.25
+2025-05-12,Vie locale & citoyennete,14,509.4285714285714
+2025-05-12,Soutien / Jour / France,7,876.7142857142857
+2025-05-12,Social & solidarite,11,14671.545454545454
+2025-05-12,Securite & delinquance,6,3875.8333333333335
+2025-05-12,Logement & urbanisme,9,16453.444444444445
+2025-05-12,Geopolitique & international,28,15176.357142857143
+2025-05-12,Education & culture,13,26961.07692307692
+2025-05-12,Deux / Emmanuel / Peuple,5,638.2
+2025-05-12,Budget & finances,5,39073.2
+2025-05-12,Arrondissement / Liberté / Gauche,15,2301.333333333333
+2025-05-19,Vie locale & citoyennete,7,599.2857142857143
+2025-05-19,Soutien / Jour / France,12,33274.25
+2025-05-19,Social & solidarite,12,49649.333333333336
+2025-05-19,Securite & delinquance,6,112360.5
+2025-05-19,Logement & urbanisme,18,5957.833333333333
+2025-05-19,Geopolitique & international,21,7307.428571428572
+2025-05-19,Education & culture,14,19683.92857142857
+2025-05-19,Deux / Emmanuel / Peuple,7,7305.714285714285
+2025-05-19,Budget & finances,5,134339.2
+2025-05-19,Arrondissement / Liberté / Gauche,9,6390.111111111111
+2025-05-26,Vie locale & citoyennete,7,796.5714285714286
+2025-05-26,Soutien / Jour / France,11,493.7272727272728
+2025-05-26,Social & solidarite,9,2721.777777777778
+2025-05-26,Securite & delinquance,10,601.2
+2025-05-26,Geopolitique & international,18,1916.2777777777776
+2025-05-26,Deux / Emmanuel / Peuple,6,980.8333333333334
+2025-05-26,Education & culture,8,402.625
+2025-05-26,Budget & finances,7,1361.7142857142858
+2025-05-26,Arrondissement / Liberté / Gauche,8,467.5
+2025-05-26,Logement & urbanisme,7,554.8571428571429
+2025-06-02,Vie locale & citoyennete,11,1700.7272727272727
+2025-06-02,Arrondissement / Liberté / Gauche,13,415.84615384615387
+2025-06-02,Budget & finances,8,1995.125
+2025-06-02,Deux / Emmanuel / Peuple,3,121.66666666666669
+2025-06-02,Education & culture,10,5180.7
+2025-06-02,Geopolitique & international,10,1336.0
+2025-06-02,Logement & urbanisme,8,2562.0
+2025-06-02,Securite & delinquance,8,1425.25
+2025-06-02,Social & solidarite,21,351.6666666666667
+2025-06-02,Soutien / Jour / France,6,3502.1666666666665
+2025-06-09,Social & solidarite,3,593.0
+2025-06-09,Securite & delinquance,6,5094.5
+2025-06-09,Vie locale & citoyennete,6,2529.333333333333
+2025-06-09,Soutien / Jour / France,12,1269.0833333333333
+2025-06-09,Logement & urbanisme,9,1018.3333333333334
+2025-06-09,Arrondissement / Liberté / Gauche,6,694.3333333333334
+2025-06-09,Education & culture,13,1908.3076923076924
+2025-06-09,Deux / Emmanuel / Peuple,2,192.0
+2025-06-09,Budget & finances,7,6964.428571428572
+2025-06-09,Geopolitique & international,14,1797.7857142857142
+2025-06-16,Vie locale & citoyennete,10,546.4
+2025-06-16,Soutien / Jour / France,9,206.88888888888889
+2025-06-16,Social & solidarite,7,1966.4285714285716
+2025-06-16,Securite & delinquance,7,1198.0
+2025-06-16,Logement & urbanisme,19,876.3157894736842
+2025-06-16,Geopolitique & international,22,2995.590909090909
+2025-06-16,Education & culture,22,644.4090909090909
+2025-06-16,Deux / Emmanuel / Peuple,8,3425.75
+2025-06-16,Budget & finances,3,5480.333333333333
+2025-06-16,Arrondissement / Liberté / Gauche,15,336.6
+2025-06-23,Vie locale & citoyennete,14,1223.142857142857
+2025-06-23,Soutien / Jour / France,7,1744.2857142857142
+2025-06-23,Social & solidarite,7,248.7142857142857
+2025-06-23,Securite & delinquance,15,2490.2
+2025-06-23,Logement & urbanisme,18,2425.722222222222
+2025-06-23,Education & culture,15,5065.6
+2025-06-23,Deux / Emmanuel / Peuple,14,688.7857142857143
+2025-06-23,Budget & finances,21,2715.5238095238096
+2025-06-23,Arrondissement / Liberté / Gauche,19,482.6842105263158
+2025-06-23,Geopolitique & international,19,2179.894736842105
+2025-06-30,Geopolitique & international,12,2080.083333333333
+2025-06-30,Arrondissement / Liberté / Gauche,22,1088.5454545454545
+2025-06-30,Budget & finances,14,2900.1428571428573
+2025-06-30,Deux / Emmanuel / Peuple,9,470.55555555555554
+2025-06-30,Education & culture,18,2487.555555555556
+2025-06-30,Logement & urbanisme,16,1227.5
+2025-06-30,Securite & delinquance,15,1627.7333333333331
+2025-06-30,Social & solidarite,16,594.3125
+2025-06-30,Soutien / Jour / France,12,1263.25
+2025-06-30,Vie locale & citoyennete,10,217.6
+2025-07-07,Social & solidarite,9,3823.8888888888887
+2025-07-07,Securite & delinquance,15,496.0
+2025-07-07,Vie locale & citoyennete,6,211.5
+2025-07-07,Soutien / Jour / France,12,1565.6666666666667
+2025-07-07,Logement & urbanisme,11,631.7272727272727
+2025-07-07,Arrondissement / Liberté / Gauche,7,626.7142857142857
+2025-07-07,Education & culture,13,1763.5384615384614
+2025-07-07,Deux / Emmanuel / Peuple,9,3830.222222222222
+2025-07-07,Budget & finances,19,2675.7894736842104
+2025-07-07,Geopolitique & international,14,2584.0714285714284
+2025-07-14,Vie locale & citoyennete,8,324.5
+2025-07-14,Soutien / Jour / France,10,1010.6
+2025-07-14,Social & solidarite,10,4854.4
+2025-07-14,Securite & delinquance,7,7031.285714285715
+2025-07-14,Logement & urbanisme,11,148.0909090909091
+2025-07-14,Education & culture,10,3971.2
+2025-07-14,Deux / Emmanuel / Peuple,2,179.5
+2025-07-14,Budget & finances,16,9163.0625
+2025-07-14,Arrondissement / Liberté / Gauche,5,2161.6
+2025-07-14,Geopolitique & international,21,1838.047619047619
+2025-07-21,Securite & delinquance,7,8809.0
+2025-07-21,Vie locale & citoyennete,11,1105.0
+2025-07-21,Soutien / Jour / France,7,3507.8571428571427
+2025-07-21,Social & solidarite,9,1142.3333333333333
+2025-07-21,Logement & urbanisme,10,3020.8
+2025-07-21,Arrondissement / Liberté / Gauche,6,2194.1666666666665
+2025-07-21,Education & culture,18,1838.2777777777776
+2025-07-21,Deux / Emmanuel / Peuple,3,2289.0
+2025-07-21,Budget & finances,11,1322.8181818181818
+2025-07-21,Geopolitique & international,19,2351.368421052632
+2025-07-28,Securite & delinquance,4,902.75
+2025-07-28,Vie locale & citoyennete,4,174.25
+2025-07-28,Soutien / Jour / France,5,6726.2
+2025-07-28,Social & solidarite,7,485.0
+2025-07-28,Logement & urbanisme,11,6453.727272727273
+2025-07-28,Deux / Emmanuel / Peuple,1,10.0
+2025-07-28,Education & culture,9,1128.888888888889
+2025-07-28,Geopolitique & international,16,4169.25
+2025-07-28,Budget & finances,7,6808.714285714285
+2025-07-28,Arrondissement / Liberté / Gauche,2,639.5
+2025-08-04,Soutien / Jour / France,9,1815.6666666666667
+2025-08-04,Social & solidarite,2,88.0
+2025-08-04,Securite & delinquance,5,7255.0
+2025-08-04,Logement & urbanisme,3,2103.0
+2025-08-04,Geopolitique & international,10,772.7
+2025-08-04,Education & culture,8,737.0
+2025-08-04,Deux / Emmanuel / Peuple,1,61.0
+2025-08-04,Budget & finances,12,7520.333333333333
+2025-08-04,Arrondissement / Liberté / Gauche,4,11765.5
+2025-08-11,Vie locale & citoyennete,3,704.0
+2025-08-11,Soutien / Jour / France,7,4941.857142857143
+2025-08-11,Social & solidarite,8,1264.875
+2025-08-11,Securite & delinquance,5,2656.4
+2025-08-11,Logement & urbanisme,2,79.0
+2025-08-11,Geopolitique & international,10,2903.2
+2025-08-11,Education & culture,11,2280.5454545454545
+2025-08-11,Deux / Emmanuel / Peuple,3,3589.0
+2025-08-11,Budget & finances,6,3536.0
+2025-08-11,Arrondissement / Liberté / Gauche,7,302.0
+2025-08-18,Vie locale & citoyennete,4,87.75
+2025-08-18,Soutien / Jour / France,2,266.0
+2025-08-18,Social & solidarite,4,408.0
+2025-08-18,Securite & delinquance,3,6443.0
+2025-08-18,Logement & urbanisme,9,243.44444444444449
+2025-08-18,Geopolitique & international,12,1032.0833333333333
+2025-08-18,Education & culture,8,2004.125
+2025-08-18,Budget & finances,4,1527.75
+2025-08-18,Arrondissement / Liberté / Gauche,4,1126.25
+2025-08-25,Vie locale & citoyennete,9,302.77777777777777
+2025-08-25,Soutien / Jour / France,7,1928.7142857142856
+2025-08-25,Social & solidarite,10,4045.0
+2025-08-25,Logement & urbanisme,9,2883.222222222222
+2025-08-25,Securite & delinquance,13,4634.0
+2025-08-25,Education & culture,18,2488.0
+2025-08-25,Arrondissement / Liberté / Gauche,10,3030.9
+2025-08-25,Budget & finances,22,8083.090909090909
+2025-08-25,Geopolitique & international,14,1801.071428571429
+2025-08-25,Deux / Emmanuel / Peuple,3,8816.0
+2025-09-01,Arrondissement / Liberté / Gauche,15,685.4666666666667
+2025-09-01,Budget & finances,22,7221.227272727273
+2025-09-01,Deux / Emmanuel / Peuple,4,1031.75
+2025-09-01,Education & culture,18,4122.444444444444
+2025-09-01,Logement & urbanisme,32,2934.4375
+2025-09-01,Securite & delinquance,14,4829.928571428572
+2025-09-01,Social & solidarite,14,1667.142857142857
+2025-09-01,Soutien / Jour / France,10,271.8
+2025-09-01,Vie locale & citoyennete,7,246.14285714285717
+2025-09-01,Geopolitique & international,19,3221.0
+2025-09-08,Vie locale & citoyennete,5,874.2
+2025-09-08,Logement & urbanisme,23,2759.0
+2025-09-08,Soutien / Jour / France,17,4566.176470588235
+2025-09-08,Social & solidarite,16,1148.0625
+2025-09-08,Securite & delinquance,10,1500.6
+2025-09-08,Geopolitique & international,26,7103.692307692308
+2025-09-08,Deux / Emmanuel / Peuple,6,5527.666666666667
+2025-09-08,Budget & finances,26,2737.769230769231
+2025-09-08,Arrondissement / Liberté / Gauche,13,579.8461538461538
+2025-09-08,Education & culture,33,6197.212121212121
+2025-09-15,Vie locale & citoyennete,14,2303.214285714286
+2025-09-15,Soutien / Jour / France,5,3560.4
+2025-09-15,Social & solidarite,17,1952.4117647058824
+2025-09-15,Securite & delinquance,12,1082.9166666666667
+2025-09-15,Logement & urbanisme,14,614.5
+2025-09-15,Education & culture,31,2483.8064516129034
+2025-09-15,Deux / Emmanuel / Peuple,8,2744.5
+2025-09-15,Budget & finances,22,8470.0
+2025-09-15,Arrondissement / Liberté / Gauche,16,855.125
+2025-09-15,Geopolitique & international,30,2340.3
+2025-09-22,Securite & delinquance,12,1616.5833333333333
+2025-09-22,Soutien / Jour / France,12,4762.166666666667
+2025-09-22,Vie locale & citoyennete,4,3135.0
+2025-09-22,Social & solidarite,15,1331.2666666666669
+2025-09-22,Logement & urbanisme,19,1279.8947368421052
+2025-09-22,Budget & finances,15,4842.933333333333
+2025-09-22,Education & culture,25,869.88
+2025-09-22,Deux / Emmanuel / Peuple,6,152.0
+2025-09-22,Arrondissement / Liberté / Gauche,23,734.1304347826087
+2025-09-22,Geopolitique & international,28,3282.714285714286
+2025-09-29,Vie locale & citoyennete,11,165.36363636363637
+2025-09-29,Soutien / Jour / France,10,1992.6
+2025-09-29,Social & solidarite,9,285.22222222222223
+2025-09-29,Securite & delinquance,15,4451.733333333334
+2025-09-29,Logement & urbanisme,18,1771.888888888889
+2025-09-29,Geopolitique & international,19,3599.315789473684
+2025-09-29,Education & culture,34,2525.176470588235
+2025-09-29,Deux / Emmanuel / Peuple,3,1314.0
+2025-09-29,Budget & finances,20,5873.9
+2025-09-29,Arrondissement / Liberté / Gauche,4,142.5
+2025-10-06,Vie locale & citoyennete,14,932.6428571428572
+2025-10-06,Soutien / Jour / France,21,1205.3333333333333
+2025-10-06,Social & solidarite,13,1709.1538461538462
+2025-10-06,Securite & delinquance,10,2151.2
+2025-10-06,Logement & urbanisme,11,31093.90909090909
+2025-10-06,Education & culture,30,3572.633333333333
+2025-10-06,Deux / Emmanuel / Peuple,9,3880.6666666666665
+2025-10-06,Budget & finances,23,3841.086956521739
+2025-10-06,Arrondissement / Liberté / Gauche,13,1060.5384615384614
+2025-10-06,Geopolitique & international,23,1602.9565217391305
+2025-10-13,Geopolitique & international,18,4010.1111111111113
+2025-10-13,Arrondissement / Liberté / Gauche,6,197.66666666666663
+2025-10-13,Budget & finances,33,3083.5454545454545
+2025-10-13,Deux / Emmanuel / Peuple,4,260.0
+2025-10-13,Education & culture,21,2024.6666666666667
+2025-10-13,Logement & urbanisme,19,6987.9473684210525
+2025-10-13,Securite & delinquance,8,4291.625
+2025-10-13,Social & solidarite,13,1118.2307692307693
+2025-10-13,Soutien / Jour / France,23,2500.782608695652
+2025-10-13,Vie locale & citoyennete,10,1337.2
+2025-10-20,Social & solidarite,7,1093.571428571429
+2025-10-20,Securite & delinquance,7,3670.142857142857
+2025-10-20,Vie locale & citoyennete,6,761.1666666666666
+2025-10-20,Soutien / Jour / France,5,4132.6
+2025-10-20,Logement & urbanisme,10,603.0
+2025-10-20,Arrondissement / Liberté / Gauche,10,2263.1
+2025-10-20,Education & culture,30,1975.1
+2025-10-20,Deux / Emmanuel / Peuple,5,6172.6
+2025-10-20,Budget & finances,12,6961.166666666667
+2025-10-20,Geopolitique & international,11,2014.3636363636365
+2025-10-27,Vie locale & citoyennete,14,615.2142857142857
+2025-10-27,Soutien / Jour / France,14,1450.071428571429
+2025-10-27,Social & solidarite,19,1508.9473684210527
+2025-10-27,Securite & delinquance,15,1625.7333333333331
+2025-10-27,Logement & urbanisme,18,4927.944444444444
+2025-10-27,Education & culture,28,2241.678571428572
+2025-10-27,Deux / Emmanuel / Peuple,5,4133.6
+2025-10-27,Budget & finances,18,5377.166666666667
+2025-10-27,Arrondissement / Liberté / Gauche,10,832.1
+2025-10-27,Geopolitique & international,9,2527.6666666666665
+2025-11-03,Securite & delinquance,18,2518.0
+2025-11-03,Vie locale & citoyennete,24,475.2083333333333
+2025-11-03,Soutien / Jour / France,15,4324.6
+2025-11-03,Social & solidarite,9,1857.3333333333333
+2025-11-03,Logement & urbanisme,19,1361.2631578947369
+2025-11-03,Arrondissement / Liberté / Gauche,16,822.0
+2025-11-03,Education & culture,20,2172.05
+2025-11-03,Deux / Emmanuel / Peuple,10,947.8
+2025-11-03,Budget & finances,16,2109.3125
+2025-11-03,Geopolitique & international,15,2535.866666666667
+2025-11-10,Vie locale & citoyennete,12,1014.4166666666666
+2025-11-10,Soutien / Jour / France,25,2117.44
+2025-11-10,Social & solidarite,13,1298.8461538461538
+2025-11-10,Securite & delinquance,9,751.8888888888889
+2025-11-10,Logement & urbanisme,22,2422.7727272727275
+2025-11-10,Education & culture,19,2745.315789473684
+2025-11-10,Deux / Emmanuel / Peuple,2,4943.0
+2025-11-10,Budget & finances,9,2312.777777777778
+2025-11-10,Arrondissement / Liberté / Gauche,11,1258.2727272727273
+2025-11-10,Geopolitique & international,23,2083.391304347826
+2025-11-17,Soutien / Jour / France,15,1461.5333333333333
+2025-11-17,Social & solidarite,17,4397.764705882353
+2025-11-17,Securite & delinquance,15,1530.3333333333333
+2025-11-17,Logement & urbanisme,14,3548.8571428571427
+2025-11-17,Vie locale & citoyennete,12,1100.75
+2025-11-17,Education & culture,37,1347.3243243243244
+2025-11-17,Deux / Emmanuel / Peuple,9,1348.3333333333333
+2025-11-17,Budget & finances,26,3573.8846153846152
+2025-11-17,Arrondissement / Liberté / Gauche,8,900.25
+2025-11-17,Geopolitique & international,17,4940.117647058823
+2025-11-24,Vie locale & citoyennete,7,627.5714285714286
+2025-11-24,Soutien / Jour / France,12,1609.6666666666667
+2025-11-24,Social & solidarite,11,1722.8181818181818
+2025-11-24,Securite & delinquance,13,708.2307692307693
+2025-11-24,Logement & urbanisme,22,1263.8636363636365
+2025-11-24,Geopolitique & international,22,4318.772727272727
+2025-11-24,Deux / Emmanuel / Peuple,9,1008.1111111111112
+2025-11-24,Budget & finances,31,2799.6129032258063
+2025-11-24,Arrondissement / Liberté / Gauche,15,1534.6
+2025-11-24,Education & culture,24,1659.5
+2025-12-01,Securite & delinquance,18,3151.4444444444443
+2025-12-01,Soutien / Jour / France,8,805.0
+2025-12-01,Social & solidarite,19,3822.8947368421054
+2025-12-01,Logement & urbanisme,20,573.6
+2025-12-01,Vie locale & citoyennete,15,622.7333333333333
+2025-12-01,Education & culture,30,2686.366666666667
+2025-12-01,Arrondissement / Liberté / Gauche,15,1188.8
+2025-12-01,Geopolitique & international,18,2590.1111111111118
+2025-12-01,Deux / Emmanuel / Peuple,9,8168.555555555556
+2025-12-01,Budget & finances,16,3093.75
+2025-12-08,Vie locale & citoyennete,10,551.1
+2025-12-08,Soutien / Jour / France,9,4953.0
+2025-12-08,Social & solidarite,14,562.3571428571429
+2025-12-08,Logement & urbanisme,18,2679.5
+2025-12-08,Securite & delinquance,21,3871.3333333333335
+2025-12-08,Education & culture,39,3517.4102564102564
+2025-12-08,Deux / Emmanuel / Peuple,6,236.5
+2025-12-08,Budget & finances,9,6237.666666666667
+2025-12-08,Arrondissement / Liberté / Gauche,16,707.1875
+2025-12-08,Geopolitique & international,23,2618.1304347826085
+2025-12-15,Vie locale & citoyennete,16,2024.9375
+2025-12-15,Soutien / Jour / France,12,705.5
+2025-12-15,Social & solidarite,9,4648.555555555556
+2025-12-15,Securite & delinquance,19,1532.0
+2025-12-15,Logement & urbanisme,21,2976.6666666666665
+2025-12-15,Geopolitique & international,21,3542.7619047619046
+2025-12-15,Deux / Emmanuel / Peuple,16,1688.5625
+2025-12-15,Budget & finances,6,3525.1666666666665
+2025-12-15,Arrondissement / Liberté / Gauche,26,1045.923076923077
+2025-12-15,Education & culture,42,2193.2380952380954
+2025-12-22,Vie locale & citoyennete,23,939.391304347826
+2025-12-22,Soutien / Jour / France,11,6275.0
+2025-12-22,Social & solidarite,14,4943.0
+2025-12-22,Securite & delinquance,11,1225.2727272727273
+2025-12-22,Logement & urbanisme,6,1763.0
+2025-12-22,Geopolitique & international,13,3430.923076923077
+2025-12-22,Deux / Emmanuel / Peuple,6,373.1666666666667
+2025-12-22,Budget & finances,2,6795.5
+2025-12-22,Arrondissement / Liberté / Gauche,8,633.875
+2025-12-22,Education & culture,17,4252.64705882353
+2025-12-29,Securite & delinquance,3,90.33333333333331
+2025-12-29,Soutien / Jour / France,12,3513.583333333333
+2025-12-29,Vie locale & citoyennete,14,553.9285714285714
+2025-12-29,Logement & urbanisme,8,595.875
+2025-12-29,Social & solidarite,13,2975.538461538461
+2025-12-29,Education & culture,9,1285.4444444444443
+2025-12-29,Deux / Emmanuel / Peuple,8,5163.375
+2025-12-29,Budget & finances,4,4054.75
+2025-12-29,Arrondissement / Liberté / Gauche,7,2192.0
+2025-12-29,Geopolitique & international,22,10015.272727272728
+2026-01-05,Vie locale & citoyennete,17,2672.764705882353
+2026-01-05,Soutien / Jour / France,13,2298.153846153846
+2026-01-05,Social & solidarite,13,3521.4615384615386
+2026-01-05,Securite & delinquance,13,1519.4615384615386
+2026-01-05,Logement & urbanisme,25,1629.24
+2026-01-05,Geopolitique & international,13,2493.076923076923
+2026-01-05,Education & culture,48,2075.2916666666665
+2026-01-05,Deux / Emmanuel / Peuple,18,6616.611111111111
+2026-01-05,Budget & finances,6,1634.6666666666667
+2026-01-05,Arrondissement / Liberté / Gauche,31,1918.967741935484
+2026-01-12,Vie locale & citoyennete,22,813.9090909090909
+2026-01-12,Soutien / Jour / France,16,1578.375
+2026-01-12,Social & solidarite,29,1408.6896551724135
+2026-01-12,Securite & delinquance,28,1801.2857142857142
+2026-01-12,Logement & urbanisme,36,1468.111111111111
+2026-01-12,Geopolitique & international,15,883.0
+2026-01-12,Education & culture,62,2670.1451612903224
+2026-01-12,Deux / Emmanuel / Peuple,21,2094.4761904761904
+2026-01-12,Budget & finances,17,1915.8235294117649
+2026-01-12,Arrondissement / Liberté / Gauche,52,1452.3461538461538
+2026-01-19,Vie locale & citoyennete,38,1191.3157894736842
+2026-01-19,Soutien / Jour / France,11,1886.909090909091
+2026-01-19,Social & solidarite,28,1931.75
+2026-01-19,Securite & delinquance,30,1811.2333333333331
+2026-01-19,Logement & urbanisme,33,1363.2727272727273
+2026-01-19,Education & culture,63,5756.825396825397
+2026-01-19,Deux / Emmanuel / Peuple,13,3331.769230769231
+2026-01-19,Budget & finances,18,2415.8888888888887
+2026-01-19,Arrondissement / Liberté / Gauche,32,1318.875
+2026-01-19,Geopolitique & international,25,2205.64
+2026-01-26,Securite & delinquance,41,1307.7317073170732
+2026-01-26,Soutien / Jour / France,15,1950.9333333333332
+2026-01-26,Social & solidarite,23,920.9130434782608
+2026-01-26,Vie locale & citoyennete,37,3525.783783783784
+2026-01-26,Logement & urbanisme,62,933.1935483870968
+2026-01-26,Deux / Emmanuel / Peuple,23,1511.9565217391305
+2026-01-26,Education & culture,68,2388.8676470588234
+2026-01-26,Budget & finances,30,1847.7
+2026-01-26,Arrondissement / Liberté / Gauche,35,1328.3714285714286
+2026-01-26,Geopolitique & international,24,1856.5416666666667
+2026-02-02,Vie locale & citoyennete,28,941.75
+2026-02-02,Soutien / Jour / France,12,545.6666666666666
+2026-02-02,Social & solidarite,28,1981.5
+2026-02-02,Securite & delinquance,29,659.3103448275862
+2026-02-02,Logement & urbanisme,30,2072.4333333333334
+2026-02-02,Education & culture,70,2731.4857142857145
+2026-02-02,Deux / Emmanuel / Peuple,13,2570.153846153846
+2026-02-02,Budget & finances,19,1566.7894736842106
+2026-02-02,Arrondissement / Liberté / Gauche,39,1176.1025641025642
+2026-02-02,Geopolitique & international,14,1038.2142857142858
+2026-02-09,Securite & delinquance,38,1273.0526315789473
+2026-02-09,Soutien / Jour / France,21,5527.523809523809
+2026-02-09,Social & solidarite,24,896.0416666666666
+2026-02-09,Vie locale & citoyennete,31,1594.548387096774
+2026-02-09,Logement & urbanisme,31,1701.741935483871
+2026-02-09,Deux / Emmanuel / Peuple,14,4258.5
+2026-02-09,Education & culture,75,2645.56
+2026-02-09,Budget & finances,28,1675.821428571429
+2026-02-09,Arrondissement / Liberté / Gauche,26,2066.4615384615386
+2026-02-09,Geopolitique & international,19,2651.0
+2026-02-16,Soutien / Jour / France,1,101.0
+2026-02-16,Arrondissement / Liberté / Gauche,2,73.0
+2026-02-16,Budget & finances,7,4882.714285714285
+2026-02-16,Deux / Emmanuel / Peuple,6,2113.5
+2026-02-16,Education & culture,18,1482.888888888889
+2026-02-16,Geopolitique & international,6,1691.8333333333333
+2026-02-16,Logement & urbanisme,11,538.5454545454545
+2026-02-16,Securite & delinquance,10,1282.4
+2026-02-16,Social & solidarite,4,197.5
+2026-02-16,Vie locale & citoyennete,10,660.9

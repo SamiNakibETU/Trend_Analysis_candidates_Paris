@@ -1,0 +1,4 @@
+periode,n_nsi,med_nsi,med_hostilite,p_mw_nsi_bd,p_mw_nsi_da,p_mw_host_bd,p_mw_host_da
+avant,42,2.085,21.009999999999998,,,,
+pendant,46,0.0,16.67,0.9332714192819623,,0.48225667323790233,
+après,41,4.35,18.52,,0.942222091533296,,0.6393923960929644

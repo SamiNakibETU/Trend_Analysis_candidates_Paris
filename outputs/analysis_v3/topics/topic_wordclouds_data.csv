@@ -1,0 +1,151 @@
+﻿topic_id,topic_name,rank,word
+0,Logement & urbanisme,1,logement
+0,Logement & urbanisme,2,place
+0,Logement & urbanisme,3,habitants
+0,Logement & urbanisme,4,social
+0,Logement & urbanisme,5,the
+0,Logement & urbanisme,6,retrouvez
+0,Logement & urbanisme,7,suis
+0,Logement & urbanisme,8,rendez
+0,Logement & urbanisme,9,municipale
+0,Logement & urbanisme,10,ville
+0,Logement & urbanisme,11,avez
+0,Logement & urbanisme,12,engagement
+0,Logement & urbanisme,13,école
+0,Logement & urbanisme,14,jeunes
+0,Logement & urbanisme,15,militants
+1,Vie locale & citoyennete,1,plan
+1,Vie locale & citoyennete,2,parisiennes
+1,Vie locale & citoyennete,3,projet
+1,Vie locale & citoyennete,4,ville
+1,Vie locale & citoyennete,5,populaire
+1,Vie locale & citoyennete,6,maire
+1,Vie locale & citoyennete,7,grand
+1,Vie locale & citoyennete,8,nouveau
+1,Vie locale & citoyennete,9,entreprises
+1,Vie locale & citoyennete,10,liste
+1,Vie locale & citoyennete,11,fr
+1,Vie locale & citoyennete,12,prix
+1,Vie locale & citoyennete,13,programme
+1,Vie locale & citoyennete,14,ai
+1,Vie locale & citoyennete,15,travail
+2,Geopolitique & international,1,france
+2,Geopolitique & international,2,contre
+2,Geopolitique & international,3,millions
+2,Geopolitique & international,4,ue
+2,Geopolitique & international,5,pays
+2,Geopolitique & international,6,français
+2,Geopolitique & international,7,europe
+2,Geopolitique & international,8,com
+2,Geopolitique & international,9,porte
+2,Geopolitique & international,10,défendre
+2,Geopolitique & international,11,droit
+2,Geopolitique & international,12,guerre
+2,Geopolitique & international,13,ordre
+2,Geopolitique & international,14,devant
+2,Geopolitique & international,15,politique
+3,Social & solidarite,1,ceux
+3,Social & solidarite,2,monde
+3,Social & solidarite,3,santé
+3,Social & solidarite,4,année
+3,Social & solidarite,5,président
+3,Social & solidarite,6,française
+3,Social & solidarite,7,font
+3,Social & solidarite,8,avons
+3,Social & solidarite,9,veux
+3,Social & solidarite,10,celles
+3,Social & solidarite,11,vivre
+3,Social & solidarite,12,tant
+3,Social & solidarite,13,femmes
+3,Social & solidarite,14,aide
+3,Social & solidarite,15,chaque
+4,Securite & delinquance,1,politique
+4,Securite & delinquance,2,public
+4,Securite & delinquance,3,sécurité
+4,Securite & delinquance,4,argent
+4,Securite & delinquance,5,service
+4,Securite & delinquance,6,enfants
+4,Securite & delinquance,7,police
+4,Securite & delinquance,8,famille
+4,Securite & delinquance,9,parti
+4,Securite & delinquance,10,mettre
+4,Securite & delinquance,11,fin
+4,Securite & delinquance,12,priorité
+4,Securite & delinquance,13,15
+4,Securite & delinquance,14,espace
+4,Securite & delinquance,15,madame
+5,Arrondissement / Liberté / Gauche,1,arrondissement
+5,Arrondissement / Liberté / Gauche,2,liberté
+5,Arrondissement / Liberté / Gauche,3,gauche
+5,Arrondissement / Liberté / Gauche,4,campagne
+5,Arrondissement / Liberté / Gauche,5,soir
+5,Arrondissement / Liberté / Gauche,6,jours
+5,Arrondissement / Liberté / Gauche,7,ensemble
+5,Arrondissement / Liberté / Gauche,8,ville
+5,Arrondissement / Liberté / Gauche,9,allons
+5,Arrondissement / Liberté / Gauche,10,entretien
+5,Arrondissement / Liberté / Gauche,11,côtés
+5,Arrondissement / Liberté / Gauche,12,changement
+5,Arrondissement / Liberté / Gauche,13,gagner
+5,Arrondissement / Liberté / Gauche,14,rassemblement
+5,Arrondissement / Liberté / Gauche,15,quel
+6,Budget & finances,1,euros
+6,Budget & finances,2,milliards
+6,Budget & finances,3,français
+6,Budget & finances,4,000
+6,Budget & finances,5,gouvernement
+6,Budget & finances,6,loi
+6,Budget & finances,7,nationale
+6,Budget & finances,8,budget
+6,Budget & finances,9,milliards euros
+6,Budget & finances,10,logements
+6,Budget & finances,11,sociaux
+6,Budget & finances,12,assemblée
+6,Budget & finances,13,impôts
+6,Budget & finances,14,chez
+6,Budget & finances,15,ministre
+7,Education & culture,1,droite
+7,Education & culture,2,dati
+7,Education & culture,3,culture
+7,Education & culture,4,extrême
+7,Education & culture,5,fr
+7,Education & culture,6,extrême droite
+7,Education & culture,7,gauche
+7,Education & culture,8,mme
+7,Education & culture,9,cela
+7,Education & culture,10,rien
+7,Education & culture,11,knafo
+7,Education & culture,12,ça
+7,Education & culture,13,rachida
+7,Education & culture,14,ministre
+7,Education & culture,15,années
+8,Deux / Emmanuel / Peuple,1,deux
+8,Deux / Emmanuel / Peuple,2,emmanuel
+8,Deux / Emmanuel / Peuple,3,peuple
+8,Deux / Emmanuel / Peuple,4,grégoire
+8,Deux / Emmanuel / Peuple,5,européenne
+8,Deux / Emmanuel / Peuple,6,fr
+8,Deux / Emmanuel / Peuple,7,droits
+8,Deux / Emmanuel / Peuple,8,macron
+8,Deux / Emmanuel / Peuple,9,emmanuel grégoire
+8,Deux / Emmanuel / Peuple,10,heureuse
+8,Deux / Emmanuel / Peuple,11,hidalgo
+8,Deux / Emmanuel / Peuple,12,emmanuel macron
+8,Deux / Emmanuel / Peuple,13,leparisien
+8,Deux / Emmanuel / Peuple,14,leparisien fr
+8,Deux / Emmanuel / Peuple,15,union européenne
+9,Soutien / Jour / France,1,soutien
+9,Soutien / Jour / France,2,jour
+9,Soutien / Jour / France,3,france
+9,Soutien / Jour / France,4,contre
+9,Soutien / Jour / France,5,république
+9,Soutien / Jour / France,6,été
+9,Soutien / Jour / France,7,pourquoi
+9,Soutien / Jour / France,8,comment
+9,Soutien / Jour / France,9,victimes
+9,Soutien / Jour / France,10,pays
+9,Soutien / Jour / France,11,français
+9,Soutien / Jour / France,12,justice
+9,Soutien / Jour / France,13,familles
+9,Soutien / Jour / France,14,côtés
+9,Soutien / Jour / France,15,hommage

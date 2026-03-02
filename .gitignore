@@ -1,0 +1,39 @@
+# Data (sensibles, volumineux)
+final/data/*.csv
+outputs/analysis_v3/sentiment/all_replies_classified*
+outputs/analysis_v3/sentiment/all_replies_clean*
+outputs/analysis_v3/sentiment/batch_*
+outputs/analysis_v3/sentiment/*checkpoint*
+outputs/analysis_v3/sentiment/reclass4_*
+*.parquet
+
+# Modèles NLP (checkpoints lourds)
+models/
+final/A6_bert_finetuning/outputs/camembert_finetuned*/
+*.safetensors
+*.pt
+*.pth
+
+# Artefacts / dev
+*chckilist*
+*tempalte*
+*plan_analyse*
+*audit*.txt
+*inspect*.txt
+config/facebook_cookies*
+config/insta_username.txt
+config/test_candidates.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Env
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,81 @@
+﻿candidate_id,label,topic_id,topic_name,topic_pct
+david_belliard,Belliard (EELV),0,Logement & urbanisme,10.6
+david_belliard,Belliard (EELV),1,Vie locale & citoyennete,11.06
+david_belliard,Belliard (EELV),2,Geopolitique & international,9.57
+david_belliard,Belliard (EELV),3,Social & solidarite,11.56
+david_belliard,Belliard (EELV),4,Securite & delinquance,8.95
+david_belliard,Belliard (EELV),5,Arrondissement / Liberté / Gauche,10.83
+david_belliard,Belliard (EELV),6,Budget & finances,6.54
+david_belliard,Belliard (EELV),7,Education & culture,16.89
+david_belliard,Belliard (EELV),8,Deux / Emmanuel / Peuple,5.47
+david_belliard,Belliard (EELV),9,Soutien / Jour / France,8.53
+emmanuel_gregoire,Gregoire (PS),0,Logement & urbanisme,12.31
+emmanuel_gregoire,Gregoire (PS),1,Vie locale & citoyennete,10.02
+emmanuel_gregoire,Gregoire (PS),2,Geopolitique & international,9.32
+emmanuel_gregoire,Gregoire (PS),3,Social & solidarite,9.23
+emmanuel_gregoire,Gregoire (PS),4,Securite & delinquance,8.29
+emmanuel_gregoire,Gregoire (PS),5,Arrondissement / Liberté / Gauche,11.3
+emmanuel_gregoire,Gregoire (PS),6,Budget & finances,7.86
+emmanuel_gregoire,Gregoire (PS),7,Education & culture,12.33
+emmanuel_gregoire,Gregoire (PS),8,Deux / Emmanuel / Peuple,8.11
+emmanuel_gregoire,Gregoire (PS),9,Soutien / Jour / France,11.23
+ian_brossat,Brossat (PCF),0,Logement & urbanisme,8.24
+ian_brossat,Brossat (PCF),1,Vie locale & citoyennete,7.96
+ian_brossat,Brossat (PCF),2,Geopolitique & international,10.09
+ian_brossat,Brossat (PCF),3,Social & solidarite,7.98
+ian_brossat,Brossat (PCF),4,Securite & delinquance,9.08
+ian_brossat,Brossat (PCF),5,Arrondissement / Liberté / Gauche,7.95
+ian_brossat,Brossat (PCF),6,Budget & finances,13.3
+ian_brossat,Brossat (PCF),7,Education & culture,19.88
+ian_brossat,Brossat (PCF),8,Deux / Emmanuel / Peuple,6.0
+ian_brossat,Brossat (PCF),9,Soutien / Jour / France,9.53
+pierre_yves_bournazel,Bournazel (Hor.),0,Logement & urbanisme,13.08
+pierre_yves_bournazel,Bournazel (Hor.),1,Vie locale & citoyennete,12.61
+pierre_yves_bournazel,Bournazel (Hor.),2,Geopolitique & international,8.41
+pierre_yves_bournazel,Bournazel (Hor.),3,Social & solidarite,12.25
+pierre_yves_bournazel,Bournazel (Hor.),4,Securite & delinquance,10.53
+pierre_yves_bournazel,Bournazel (Hor.),5,Arrondissement / Liberté / Gauche,13.18
+pierre_yves_bournazel,Bournazel (Hor.),6,Budget & finances,6.44
+pierre_yves_bournazel,Bournazel (Hor.),7,Education & culture,9.61
+pierre_yves_bournazel,Bournazel (Hor.),8,Deux / Emmanuel / Peuple,6.32
+pierre_yves_bournazel,Bournazel (Hor.),9,Soutien / Jour / France,7.57
+rachida_dati,Dati (LR),0,Logement & urbanisme,15.65
+rachida_dati,Dati (LR),1,Vie locale & citoyennete,8.46
+rachida_dati,Dati (LR),2,Geopolitique & international,9.96
+rachida_dati,Dati (LR),3,Social & solidarite,12.21
+rachida_dati,Dati (LR),4,Securite & delinquance,10.7
+rachida_dati,Dati (LR),5,Arrondissement / Liberté / Gauche,9.95
+rachida_dati,Dati (LR),6,Budget & finances,6.61
+rachida_dati,Dati (LR),7,Education & culture,11.14
+rachida_dati,Dati (LR),8,Deux / Emmanuel / Peuple,6.27
+rachida_dati,Dati (LR),9,Soutien / Jour / France,9.05
+sarah_knafo,Knafo (Reconq.),0,Logement & urbanisme,10.24
+sarah_knafo,Knafo (Reconq.),1,Vie locale & citoyennete,7.52
+sarah_knafo,Knafo (Reconq.),2,Geopolitique & international,13.4
+sarah_knafo,Knafo (Reconq.),3,Social & solidarite,8.77
+sarah_knafo,Knafo (Reconq.),4,Securite & delinquance,9.33
+sarah_knafo,Knafo (Reconq.),5,Arrondissement / Liberté / Gauche,9.04
+sarah_knafo,Knafo (Reconq.),6,Budget & finances,11.97
+sarah_knafo,Knafo (Reconq.),7,Education & culture,14.88
+sarah_knafo,Knafo (Reconq.),8,Deux / Emmanuel / Peuple,7.68
+sarah_knafo,Knafo (Reconq.),9,Soutien / Jour / France,7.19
+sophia_chikirou,Chikirou (LFI),0,Logement & urbanisme,10.41
+sophia_chikirou,Chikirou (LFI),1,Vie locale & citoyennete,10.3
+sophia_chikirou,Chikirou (LFI),2,Geopolitique & international,14.28
+sophia_chikirou,Chikirou (LFI),3,Social & solidarite,8.95
+sophia_chikirou,Chikirou (LFI),4,Securite & delinquance,9.23
+sophia_chikirou,Chikirou (LFI),5,Arrondissement / Liberté / Gauche,8.44
+sophia_chikirou,Chikirou (LFI),6,Budget & finances,11.17
+sophia_chikirou,Chikirou (LFI),7,Education & culture,10.49
+sophia_chikirou,Chikirou (LFI),8,Deux / Emmanuel / Peuple,6.42
+sophia_chikirou,Chikirou (LFI),9,Soutien / Jour / France,10.31
+thierry_mariani,Mariani (RN),0,Logement & urbanisme,7.99
+thierry_mariani,Mariani (RN),1,Vie locale & citoyennete,7.2
+thierry_mariani,Mariani (RN),2,Geopolitique & international,17.18
+thierry_mariani,Mariani (RN),3,Social & solidarite,8.17
+thierry_mariani,Mariani (RN),4,Securite & delinquance,10.19
+thierry_mariani,Mariani (RN),5,Arrondissement / Liberté / Gauche,8.18
+thierry_mariani,Mariani (RN),6,Budget & finances,11.44
+thierry_mariani,Mariani (RN),7,Education & culture,15.08
+thierry_mariani,Mariani (RN),8,Deux / Emmanuel / Peuple,7.06
+thierry_mariani,Mariani (RN),9,Soutien / Jour / France,7.51
