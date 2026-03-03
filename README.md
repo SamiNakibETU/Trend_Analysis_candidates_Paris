@@ -24,6 +24,7 @@
 | [Notebooks](notebooks/) | 9 notebooks d’analyse (engagement → BERT) |
 | [Note d'analyse](docs/note_analyse.md) | Synthèse narrative, findings |
 | [Références](docs/REFERENCES.md) | Bibliographie académique |
+| [Article Substack](docs/SUBSTACK_ARTICLE_1.md) | « Qui domine Twitter aux municipales 2026 ? » |
 
 ---
 
