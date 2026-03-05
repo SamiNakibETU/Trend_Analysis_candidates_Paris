@@ -1,4 +1,9 @@
 # Paris Municipales 2026 — Dépendances
+# Instagram scraping (smart pipeline)
+# Twitter/X Nitter scraping
+beautifulsoup4>=4.12.0
+curl_cffi>=0.6.0
+playwright>=1.40.0
 pandas>=2.1.0
 numpy>=1.26.0
 scipy>=1.11.0

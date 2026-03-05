@@ -1,0 +1,20 @@
+# Légendes X/Twitter — ≤ 280 caractères
+# Copier-coller pour chaque figure
+
+P1_C3_er_classement:
+Knafo domine l'engagement Twitter (5× la médiane) — mais audience nationale. 7/8 candidats en déclin. Données : 7 659 tweets, 44K replies. #Municipales2026 #Paris
+
+P5_C23_network:
+Grégoire est le hub des interactions — 80/139 mentions reçues. Toutes les routes mènent à elle. Réseau 8 candidats Paris 2026. #Municipales2026
+
+P3_C13_nsi:
+Knafo reçoit le plus de soutien dans les replies, Chikirou le plus d'hostilité. NSI = (SOUTIEN − HOSTILITÉ)/total. 44K replies classifiées. #Municipales2026
+
+P4_C19_echo:
+Knafo : 82% de son audience ne réagit à aucun autre candidat. Echo chambers marqués, Jaccard faible, homophilie ρ=−0.60. #Municipales2026
+
+P1_C6_momentum:
+Grégoire seule en hausse ou stable — 7/8 candidats en déclin significatif sur les 8 dernières semaines. Momentum Twitter Paris 2026. #Municipales2026
+
+P6_C28_synchronie:
+Bournazel ρ=0.82 (stratégie unifiée TW↔IG), Chikirou ρ≈0 (séparée). Corrélation Spearman engagement cross-platform. #Municipales2026

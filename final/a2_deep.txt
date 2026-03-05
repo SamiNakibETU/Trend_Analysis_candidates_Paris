@@ -1,0 +1,84 @@
+﻿=== TOPICS (10 topics) ===
+ topic_id                        topic_name
+        0              Logement & urbanisme
+        1          Vie locale & citoyennete
+        2      Geopolitique & international
+        3               Social & solidarite
+        4            Securite & delinquance
+        5 Arrondissement / LibertÚ / Gauche
+        6                 Budget & finances
+        7               Education & culture
+        8          Deux / Emmanuel / Peuple
+        9           Soutien / Jour / France
+
+=== CANDIDATES in distribution ===
+['david_belliard', 'emmanuel_gregoire', 'ian_brossat', 'pierre_yves_bournazel', 'rachida_dati', 'sarah_knafo', 'sophia_chikirou', 'thierry_mariani']
+
+=== topic_distribution : pivot candidat x topic ===
+topic_name             Arrondissement / LibertÚ / Gauche  Budget & finances  Deux / Emmanuel / Peuple  Education & culture  Geopolitique & international  Logement & urbanisme  Securite & delinquance  Social & solidarite  Soutien / Jour / France  Vie locale & citoyennete
+candidate_id                                                                                                                                                                                                                                                                  
+david_belliard                                      10.8                6.5                       5.5                 16.9                           9.6                  10.6                     9.0                 11.6                      8.5                      11.1
+emmanuel_gregoire                                   11.3                7.9                       8.1                 12.3                           9.3                  12.3                     8.3                  9.2                     11.2                      10.0
+ian_brossat                                          8.0               13.3                       6.0                 19.9                          10.1                   8.2                     9.1                  8.0                      9.5                       8.0
+pierre_yves_bournazel                               13.2                6.4                       6.3                  9.6                           8.4                  13.1                    10.5                 12.2                      7.6                      12.6
+rachida_dati                                        10.0                6.6                       6.3                 11.1                          10.0                  15.6                    10.7                 12.2                      9.0                       8.5
+sarah_knafo                                          9.0               12.0                       7.7                 14.9                          13.4                  10.2                     9.3                  8.8                      7.2                       7.5
+sophia_chikirou                                      8.4               11.2                       6.4                 10.5                          14.3                  10.4                     9.2                  9.0                     10.3                      10.3
+thierry_mariani                                      8.2               11.4                       7.1                 15.1                          17.2                   8.0                    10.2                  8.2                      7.5                       7.2
+Sum per candidate: {'david_belliard': 100.0, 'emmanuel_gregoire': 100.0, 'ian_brossat': 100.0, 'pierre_yves_bournazel': 100.0, 'rachida_dati': 100.0, 'sarah_knafo': 100.0, 'sophia_chikirou': 100.0, 'thierry_mariani': 100.0}
+
+=== topic_resonance : avg_engagement range ===
+avg_engagement: count       80.0
+mean      3445.0
+std       6969.0
+min        100.0
+25%        335.0
+50%       1038.0
+75%       2087.0
+max      32638.0
+median_engagement: count       80.0
+mean      1356.0
+std       2750.0
+min         48.0
+25%        114.0
+50%        438.0
+75%        798.0
+max      13558.0
+n_tweets range: 25 -> 320
+
+=== topic_timeline : week range ===
+weeks: 2024-12-30 -> 2026-02-16 | unique weeks: 60
+topics in timeline: ['Arrondissement / LibertÚ / Gauche', 'Budget & finances', 'Deux / Emmanuel / Peuple', 'Education & culture', 'Geopolitique & international', 'Logement & urbanisme', 'Securite & delinquance', 'Social & solidarite', 'Soutien / Jour / France', 'Vie locale & citoyennete']
+avg_eng in timeline: count       591.0
+mean       5360.0
+std       16413.0
+min          10.0
+25%         699.0
+50%        1822.0
+75%        3827.0
+max      200391.0
+
+=== topic_wordclouds_data : words per topic ===
+topic_name
+Arrondissement / LibertÚ / Gauche    15
+Budget & finances                    15
+Deux / Emmanuel / Peuple             15
+Education & culture                  15
+Geopolitique & international         15
+Logement & urbanisme                 15
+Securite & delinquance               15
+Social & solidarite                  15
+Soutien / Jour / France              15
+Vie locale & citoyennete             15
+
+Top 5 words per topic:
+  Logement & urbanisme: ['logement', 'place', 'habitants', 'social', 'the']
+  Vie locale & citoyennete: ['plan', 'parisiennes', 'projet', 'ville', 'populaire']
+  Geopolitique & international: ['france', 'contre', 'millions', 'ue', 'pays']
+  Social & solidarite: ['ceux', 'monde', 'santÚ', 'annÚe', 'prÚsident']
+  Securite & delinquance: ['politique', 'public', 'sÚcuritÚ', 'argent', 'service']
+  Arrondissement / LibertÚ / Gauche: ['arrondissement', 'libertÚ', 'gauche', 'campagne', 'soir']
+  Budget & finances: ['euros', 'milliards', 'franþais', '000', 'gouvernement']
+  Education & culture: ['droite', 'dati', 'culture', 'extrÛme', 'fr']
+  Deux / Emmanuel / Peuple: ['deux', 'emmanuel', 'peuple', 'grÚgoire', 'europÚenne']
+  Soutien / Jour / France: ['soutien', 'jour', 'france', 'contre', 'rÚpublique']

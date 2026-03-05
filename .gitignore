@@ -1,4 +1,5 @@
 # Data (sensibles, volumineux)
+data/
 final/data/*.csv
 outputs/analysis_v3/sentiment/all_replies_classified*
 outputs/analysis_v3/sentiment/all_replies_clean*
@@ -13,6 +14,7 @@ final/A6_bert_finetuning/outputs/camembert_finetuned*/
 *.safetensors
 *.pt
 *.pth
+*.npy
 
 # Artefacts / dev
 *chckilist*
@@ -34,6 +36,38 @@ final/inspect*.txt
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Proxigram (clone self-host, ne pas versionner)
+proxigram/
+
+# Scraping (scripts et config, ne pas versionner)
+Paris_Candidats/
+scripts/scrape_*.py
+scripts/run_scrape_*.py
+scripts/scrape_twitter*.py
+scripts/scrape_instagram*.py
+scripts/*proxigram*
+scripts/instagrapi*.py
+scripts/quickstart_instagram*
+scripts/download_media.py
+scripts/test_nitter*
+scripts/test_scrapers.py
+scripts/setup_proxigram*
+scripts/start_proxigram*
+Notebook_2_RNN.ipynb
+docs/CONFIG_TOR.md
+docs/INSTAGRAM_*.md
+docs/METADONNEES_*.md
+docs/PLAN_REFAIRE*.md
+docs/PROMPT_REFAIRE*.md
+docs/PROXIGRAM*.md
+docs/RECHERCHE_SCRAPING*.md
+docs/RESULTATS_TESTS*.md
+docs/TWITTER_NITTER.md
+
+# Sensibles (cookies, secrets)
+cookies_ig.json
+*.cookies.json
 
 # Env
 .env
